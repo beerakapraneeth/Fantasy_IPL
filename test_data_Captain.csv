@@ -1,0 +1,710 @@
+match_id,season,match_name,home_team,away_team,venue,batting_innings,bowling_innings,Player_name,Starting_11,bowling_team_bowl,batting_team_bat,prev_runs,prev_balls,prev_sixes,prev_fours,prev_wickets,prev_conceded,prev_Overs_Bowled,prev_catches,prev_Dream Team,prev_Total_FP,prev_overs,prev_fielding_heroics,prev_duck,luck
+8486,2009,RCB v RR,RCB,RR,"Newlands, Cape Town",2.0,1.0,Kamran Khan,4.0,RR,RR,,,,,,,,,,,,,0,96
+21272,2022,RCB v GT,RCB,GT,"Wankhede Stadium, Mumbai",2.0,1.0,Wanindu Hasaranga de Silva,4.0,RCB,,1.0,3.0,0.0,0.0,2.0,15.0,"[7, 9, 11, 17]",1.0,1.0,69.0,4.0,0.0,0,40
+16353,2023,LSG v DC,LSG,DC,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2.0,1.0,Rovman Powell,4.0,,DC,43.0,34.0,4.0,1.0,,,,,1.0,60.0,,,0,51
+13436,2017,RCB v DC,RCB,DC,"M.Chinnaswamy Stadium, Bengaluru",1.0,2.0,Pawan Negi,4.0,RCB,RCB,6.0,12.0,0.0,0.0,1.0,19.0,"[7, 9, 15]",,1.0,33.0,3.0,,0,41
+1323,2023,RCB v CSK,RCB,CSK,"M.Chinnaswamy Stadium, Bengaluru",1.0,2.0,Ambati Rayudu,4.0,,CSK,1.0,2.0,0.0,0.0,,,,,0.0,5.0,,,0,88
+19382,2011,CSK v KKR,CSK,KKR,"MA Chidambaram Stadium, Chepauk, Chennai",1.0,2.0,Suraj Randiv,4.0,CSK,,,,,,,,,,,,,,0,2
+13491,2008,PBKS v KKR,PBKS,KKR,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",1.0,2.0,Piyush Chawla,4.0,PBKS,PBKS,,,,,3.0,28.0,"[7, 9, 13, 15]",,1.0,85.0,4.0,,0,92
+15791,2023,RR v GT,RR,GT,"Sawai Mansingh Stadium, Jaipur",1.0,2.0,Riyan Parag,4.0,,RR,15.0,12.0,1.0,1.0,,,,,0.0,22.0,,,0,51
+471,2022,SRH v KKR,SRH,KKR,"Brabourne Stadium, Mumbai",2.0,1.0,Abhishek Sharma,4.0,,SRH,42.0,32.0,0.0,6.0,,,,1.0,1.0,66.0,,0.0,0,71
+21689,2009,PBKS v RR,PBKS,RR,"Newlands, Cape Town",2.0,1.0,Yusuf Pathan,4.0,RR,RR,42.0,21.0,2.0,6.0,0.0,27.0,"[1, 3, 5, 8]",,1.0,68.0,4.0,,0,5
+18597,2022,GT v MI,GT,MI,"Brabourne Stadium, Mumbai",2.0,1.0,Shubman Gill,4.0,,GT,9.0,6.0,0.0,2.0,,,,,0.0,15.0,,,0,93
+4811,2023,RR v PBKS,RR,PBKS,"Barsapara Cricket Stadium, Guwahati",2.0,1.0,Dhruv Jurel,4.0,,RR,,,,,,,,,,,,,0,47
+4161,2016,MI v PBKS,MI,PBKS,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",2.0,1.0,David Miller,4.0,,,0.0,1.0,0.0,0.0,,,,0.0,0.0,8.0,,1.0,1,34
+4191,2022,GT v LSG,GT,LSG,"Wankhede Stadium, Mumbai",2.0,1.0,David Miller,4.0,,GT,7.0,10.0,0.0,0.0,,,,1.0,0.0,19.0,,0.0,0,99
+6902,2009,PBKS v MI,PBKS,MI,"Kingsmead, Durban",1.0,2.0,Irfan Pathan,4.0,PBKS,PBKS,39.0,33.0,2.0,2.0,2.0,26.0,"[2, 4, 17, 20]",,1.0,105.0,4.0,,0,5
+11808,2021,PBKS v RR,PBKS,RR,Dubai International Cricket Stadium,2.0,1.0,Mohammed Shami,4.0,PBKS,,0.0,0.0,0.0,0.0,2.0,14.0,"[1, 3, 5, 18]",,1.0,80.0,4.0,,1,13
+9738,2019,RCB v MI,RCB,MI,"M.Chinnaswamy Stadium, Bengaluru",1.0,2.0,Lasith Malinga,4.0,MI,,,,,,0.0,21.0,"[4, 6, 15, 18]",,0.0,8.0,4.0,,0,94
+6612,2015,RCB v CSK,RCB,CSK,"M.Chinnaswamy Stadium, Bengaluru",2.0,1.0,Harshal Patel,4.0,RCB,RCB,2.0,2.0,0.0,0.0,0.0,23.0,"[2, 9]",,0.0,2.0,2.0,,0,23
+13728,2022,GT v MI,GT,MI,"Brabourne Stadium, Mumbai",2.0,1.0,Pradeep Sangwan,4.0,GT,,2.0,5.0,0.0,0.0,0.0,23.0,"[2, 7]",1.0,0.0,10.0,2.0,0.0,0,14
+3162,2016,GL v SRH,GL,SRH,"Arun Jaitley Stadium, Delhi",1.0,2.0,Brendon McCullum,4.0,,GL,1.0,4.0,0.0,0.0,,,,,0.0,5.0,,,0,24
+6632,2018,DC v SRH,DC,SRH,"Arun Jaitley Stadium, Delhi",1.0,2.0,Harshal Patel,4.0,DC,DC,,,,,1.0,33.0,"[9, 11, 13]",,1.0,27.0,3.0,,0,6
+8299,2016,RCB v SRH,RCB,SRH,"M.Chinnaswamy Stadium, Bengaluru",2.0,1.0,KL Rahul,4.0,,RCB,0.0,1.0,0.0,0.0,,,,0.0,0.0,8.0,,1.0,1,89
+10275,2010,MI v PBKS,MI,PBKS,"Brabourne Stadium, Mumbai",1.0,2.0,Mahela Jayawardene,4.0,,PBKS,16.0,15.0,0.0,1.0,,,,,0.0,21.0,,,0,15
+17543,2008,CSK v RR,CSK,RR,"MA Chidambaram Stadium, Chepauk, Chennai",1.0,2.0,Shane Warne,4.0,RR,,,,,,0.0,21.0,"[9, 11, 13]",,0.0,6.0,3.0,,0,42
+4558,2016,KKR v SRH,KKR,SRH,"Arun Jaitley Stadium, Delhi",1.0,2.0,Deepak Hooda,4.0,SRH,SRH,2.0,2.0,0.0,0.0,2.0,16.0,"[6, 8]",,1.0,56.0,2.0,,0,17
+11582,2010,PBKS v DC,PBKS,DC,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2.0,1.0,Mithun Manhas,4.0,,DC,0.0,2.0,0.0,0.0,,,,,0.0,2.0,,,1,41
+13290,2019,RCB v SRH,RCB,SRH,"M.Chinnaswamy Stadium, Bengaluru",2.0,1.0,Parthiv Patel,4.0,,RCB,8.0,5.0,0.0,1.0,,,,,1.0,13.0,,,0,99
+1069,2015,DC v CSK,DC,CSK,"Shaheed Veer Narayan Singh International Stadium, Raipur",2.0,1.0,Albie Morkel,4.0,DC,DC,,,,,0.0,35.0,"[14, 17, 19]",1.0,0.0,8.0,3.0,0.0,0,59
+13641,2019,KKR v MI,KKR,MI,"Eden Gardens, Kolkata",1.0,2.0,Piyush Chawla,4.0,KKR,,,,,,3.0,20.0,"[7, 9, 11, 13]",,1.0,95.0,4.0,,0,61
+3897,2015,SRH v MI,SRH,MI,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1.0,2.0,Dale Steyn,4.0,SRH,SRH,,,,,0.0,17.0,[1],1.0,0.0,12.0,1.0,0.0,0,49
+1484,2021,SRH v DC,SRH,DC,"MA Chidambaram Stadium, Chepauk, Chennai",1.0,2.0,Amit Mishra,4.0,DC,,,,,,4.0,24.0,"[6, 9, 12, 18]",,1.0,130.0,4.0,,0,50
+21239,2015,DC v PBKS,DC,PBKS,"Arun Jaitley Stadium, Delhi",1.0,2.0,Virender Sehwag,4.0,,PBKS,1.0,2.0,0.0,0.0,,,,,0.0,5.0,,,0,8
+21578,2022,RR v CSK,RR,CSK,"Brabourne Stadium, Mumbai",2.0,1.0,Yashasvi Jaiswal,4.0,,RR,41.0,29.0,1.0,6.0,,,,1.0,1.0,67.0,,0.0,0,95
+18114,2020,DC v KKR,DC,KKR,Sharjah Cricket Stadium,1.0,2.0,Shikhar Dhawan,4.0,,DC,101.0,58.0,1.0,14.0,,,,1.0,1.0,151.0,,0.0,0,51
+6913,2010,RCB v PBKS,RCB,PBKS,"M.Chinnaswamy Stadium, Bengaluru",1.0,2.0,Irfan Pathan,4.0,PBKS,PBKS,21.0,16.0,0.0,2.0,1.0,27.0,"[1, 3, 5, 20]",1.0,1.0,62.0,3.5,0.0,0,75
+2232,2012,PWI v PBKS,PWI,PBKS,"Maharashtra Cricket Association Stadium, Pune",1.0,2.0,Ashok Dinda,4.0,PWI,,,,,,4.0,18.0,"[2, 4, 18, 20]",,1.0,126.0,4.0,,0,10
+15297,2008,MI v RR,MI,RR,"Dr DY Patil Sports Academy, Mumbai",1.0,2.0,Ravindra Jadeja,4.0,,RR,33.0,19.0,1.0,3.0,,,,0.0,1.0,64.0,,2.0,0,39
+9932,2009,DC v MI,DC,MI,"Buffalo Park, East London",1.0,2.0,Luke Ronchi,4.0,,MI,13.0,11.0,0.0,3.0,,,,,0.0,20.0,,,0,40
+2754,2011,MI v DC,MI,SRH,"Wankhede Stadium, Mumbai",1.0,2.0,Bharat Chipli,4.0,,SRH,18.0,14.0,0.0,2.0,,,,,0.0,24.0,,,0,58
+11157,2012,RCB v DC,RCB,SRH,"M.Chinnaswamy Stadium, Bengaluru",2.0,1.0,Mayank Agarwal,4.0,,RCB,7.0,9.0,1.0,0.0,,,,,0.0,13.0,,,0,54
+790,2015,RCB v RR,RCB,RR,"M.Chinnaswamy Stadium, Bengaluru",1.0,2.0,Ajinkya Rahane,4.0,,,18.0,12.0,1.0,2.0,,,,,1.0,28.0,,,0,78
+20331,2016,MI v KKR,MI,KKR,"Wankhede Stadium, Mumbai",1.0,2.0,Umesh Yadav,4.0,KKR,,7.0,2.0,1.0,0.0,1.0,16.0,"[17, 19]",,1.0,46.0,2.0,,0,50
+5896,2016,DC v KKR,DC,KKR,"Arun Jaitley Stadium, Delhi",2.0,1.0,Gautam Gambhir,4.0,,KKR,59.0,45.0,1.0,6.0,,,,,1.0,81.0,,,0,28
+14838,2021,MI v RCB,MI,RCB,"MA Chidambaram Stadium, Chepauk, Chennai",2.0,1.0,Rajat Patidar,4.0,,RCB,,,,,,,,,,,,,0,72
+7072,2023,MI v RR,MI,RR,"Wankhede Stadium, Mumbai",2.0,1.0,Ishan Kishan,4.0,,MI,13.0,21.0,0.0,1.0,,,,1.0,0.0,24.0,,0.0,0,93
+11717,2017,GL v SRH,GL,SRH,"Green Park, Kanpur",2.0,1.0,Mohammad Nabi,4.0,SRH,,,,,,1.0,13.0,"[2, 4, 6, 8]",,1.0,43.0,4.0,,0,74
+12291,2013,RCB v MI,RCB,MI,"M.Chinnaswamy Stadium, Bengaluru",2.0,1.0,Munaf Patel,4.0,MI,,0.0,0.0,0.0,0.0,1.0,17.0,"[1, 3, 6, 15]",,0.0,35.0,4.0,,1,90
+4217,2023,GT v SRH,GT,SRH,"Narendra Modi Stadium, Motera, Ahmedabad",1.0,2.0,David Miller,4.0,,GT,41.0,26.0,2.0,4.0,,,,,1.0,61.0,,,0,12
+21677,2008,MI v RR,MI,RR,"Dr DY Patil Sports Academy, Mumbai",1.0,2.0,Yusuf Pathan,4.0,,RR,8.0,5.0,1.0,0.0,0.0,9.0,"[11, 13]",,0.0,20.0,2.0,,0,28
+17320,2020,RR v RCB,RR,RCB,Dubai International Cricket Stadium,2.0,1.0,Shahbaz Ahmed,4.0,RCB,,1.0,1.0,0.0,0.0,2.0,26.0,"[11, 13, 15, 17]",,1.0,57.0,4.0,,0,27
+21005,2015,KKR v RCB,KKR,RCB,"Eden Gardens, Kolkata",2.0,1.0,Virat Kohli,4.0,,RCB,73.0,49.0,5.0,2.0,,,,1.0,1.0,107.0,,0.0,0,34
+20021,2018,RCB v MI,RCB,MI,"M.Chinnaswamy Stadium, Bengaluru",1.0,2.0,Tim Southee,4.0,RCB,RCB,,,,,0.0,34.0,"[1, 3, 15, 18]",1.0,0.0,12.0,4.0,0.0,0,63
+13421,2015,CSK v MI,CSK,MI,"MA Chidambaram Stadium, Chepauk, Chennai",1.0,2.0,Pawan Negi,4.0,CSK,CSK,13.0,7.0,1.0,1.0,0.0,19.0,"[10, 12]",2.0,1.0,42.0,2.0,1.0,0,35
+20587,2012,MI v DC,MI,SRH,"Wankhede Stadium, Mumbai",1.0,2.0,Veer Pratap Singh,4.0,SRH,SRH,,,,,0.0,35.0,"[4, 6, 15, 18]",,0.0,4.0,4.0,,0,15
+2017,2020,RCB v PBKS,RCB,PBKS,Sharjah Cricket Stadium,2.0,1.0,Arshdeep Singh,4.0,PBKS,,,,,,1.0,25.0,"[2, 4, 16, 19]",,1.0,43.0,4.0,,0,71
+4485,2019,SRH v CSK,SRH,CSK,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1.0,2.0,Deepak Chahar,4.0,CSK,,,,,,0.0,36.0,"[1, 3, 12, 19]",,0.0,4.0,4.0,,0,18
+1040,2012,PWI v CSK,PWI,CSK,"Maharashtra Cricket Association Stadium, Pune",1.0,2.0,Albie Morkel,4.0,CSK,CSK,28.0,7.0,3.0,2.0,2.0,37.0,"[6, 8, 11, 18]",,1.0,90.0,4.0,,0,60
+7408,2015,DC v RR,DC,RR,"Arun Jaitley Stadium, Delhi",2.0,1.0,James Faulkner,4.0,RR,RR,46.0,33.0,3.0,2.0,3.0,26.0,"[5, 7, 16, 19]",1.0,1.0,153.0,4.0,0.0,0,53
+8785,2011,PBKS v DC,PBKS,SRH,"Himachal Pradesh Cricket Association Stadium, Dharamsala",1.0,2.0,Kedar Devdhar,4.0,,,,,,,,,,,,,,,0,69
+6175,2013,MI v PBKS,MI,PBKS,"Wankhede Stadium, Mumbai",2.0,1.0,Gurkeerat Singh Mann,4.0,,PBKS,28.0,15.0,2.0,2.0,,,,,1.0,44.0,,,0,52
+18522,2011,PWI v PBKS,PWI,PBKS,"Dr DY Patil Sports Academy, Mumbai",2.0,1.0,Shrikant Wagh,4.0,PWI,,,,,,1.0,16.0,[6],,1.0,29.0,1.0,,0,14
+8097,2021,SRH v DC,SRH,DC,"MA Chidambaram Stadium, Chepauk, Chennai",2.0,1.0,Jonny Bairstow,4.0,,SRH,63.0,56.0,3.0,3.0,,,,1.0,1.0,110.0,,2.0,0,30
+6396,2016,KKR v MI,KKR,MI,"Eden Gardens, Kolkata",2.0,1.0,Hardik Pandya,4.0,MI,MI,9.0,11.0,0.0,2.0,0.0,12.0,[15],,0.0,15.0,0.4,,0,93
+12196,2018,DC v PBKS,DC,PBKS,"Arun Jaitley Stadium, Delhi",1.0,2.0,Mujeeb Ur Rahman,4.0,PBKS,,,,,,1.0,32.0,"[2, 4, 10, 14]",,1.0,29.0,4.0,,0,15
+3197,2011,KKR v Kochi,KKR,Kochi,"Eden Gardens, Kolkata",2.0,1.0,Brett Lee,4.0,KKR,KKR,,,,,1.0,12.0,"[1, 3, 16]",,1.0,41.0,2.2,,0,42
+17964,2008,DC v RR,DC,RR,"Wankhede Stadium, Mumbai",2.0,1.0,Shikhar Dhawan,4.0,,DC,27.0,29.0,1.0,2.0,,,,1.0,1.0,43.0,,0.0,0,10
+1721,2009,RCB v KKR,RCB,KKR,"SuperSport Park, Centurion",1.0,2.0,Angelo Mathews,4.0,KKR,KKR,,,,,,,,,,,,,0,29
+22089,2022,LSG v RR,LSG,RR,"Brabourne Stadium, Mumbai",1.0,2.0,Yuzvendra Chahal,4.0,RR,,,,,,1.0,43.0,"[9, 11, 15, 18]",,1.0,27.0,4.0,,0,86
+17250,2008,DC v SRH,DC,SRH,"Arun Jaitley Stadium, Delhi",2.0,1.0,Scott Styris,4.0,SRH,SRH,5.0,11.0,0.0,0.0,0.0,28.0,"[5, 7, 16]",,0.0,3.0,3.0,,0,72
+4539,2015,RR v RCB,RR,RCB,"Sardar Patel (Gujarat) Stadium, Motera, Ahmedabad",1.0,2.0,Deepak Hooda,4.0,RR,RR,19.0,9.0,2.0,1.0,1.0,35.0,"[10, 14, 18]",,1.0,49.0,3.0,,0,81
+147,2019,DC v RCB,DC,RCB,"Arun Jaitley Stadium, Delhi",2.0,1.0,AB de Villiers,4.0,,RCB,82.0,44.0,7.0,3.0,,,,3.0,1.0,145.0,,0.0,0,45
+18248,2021,RR v MI,RR,MI,Sharjah Cricket Stadium,1.0,2.0,Shivam Dube,4.0,,RR,64.0,42.0,4.0,4.0,,,,1.0,1.0,100.0,,0.0,0,71
+15769,2021,PBKS v RR,PBKS,RR,Dubai International Cricket Stadium,1.0,2.0,Riyan Parag,4.0,RR,RR,9.0,16.0,0.0,0.0,0.0,4.0,[18],0.0,0.0,21.0,0.1,1.0,0,50
+16284,2008,MI v RCB,MI,RCB,"Wankhede Stadium, Mumbai",2.0,1.0,Ross Taylor,4.0,,RCB,,,,,,,,,,,,,0,41
+17231,2016,RPS v PBKS,RPS,PBKS,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",2.0,1.0,Saurabh Tiwary,4.0,,RPS,13.0,12.0,0.0,1.0,,,,,0.0,18.0,,,0,64
+1711,2019,KKR v PBKS,KKR,PBKS,"Eden Gardens, Kolkata",2.0,1.0,Andrew Tye,4.0,PBKS,,0.0,2.0,0.0,0.0,0.0,47.0,"[4, 9, 12, 19]",,0.0,0.0,4.0,,1,25
+8131,2017,MI v DC,MI,DC,"Wankhede Stadium, Mumbai",1.0,2.0,Jos Buttler,4.0,,MI,77.0,37.0,5.0,7.0,,,,,1.0,112.0,,,0,90
+2615,2022,RCB v MI,RCB,MI,"Maharashtra Cricket Association Stadium, Pune",1.0,2.0,Basil Thampi,4.0,MI,,,,,,0.0,15.0,"[1, 3, 9]",1.0,0.0,16.0,3.0,0.0,0,96
+19319,2021,MI v KKR,MI,KKR,"Sheikh Zayed Stadium, Abu Dhabi",2.0,1.0,Sunil Narine,4.0,KKR,,21.0,10.0,2.0,1.0,2.0,18.0,"[7, 9, 11, 15]",,1.0,108.0,4.0,,0,41
+13991,2016,GL v DC,GL,DC,"Saurashtra Cricket Association Stadium, Rajkot",1.0,2.0,Praveen Kumar,4.0,GL,,15.0,13.0,0.0,2.0,2.0,25.0,"[1, 3, 20]",,1.0,87.0,2.5,,0,30
+7528,2013,RCB v CSK,RCB,CSK,"M.Chinnaswamy Stadium, Bengaluru",2.0,1.0,Jason Holder,4.0,CSK,,,,,,0.0,39.0,"[2, 4, 6, 14]",2.0,0.0,20.0,4.0,0.0,0,86
+1453,2017,DC v GL,DC,GL,"Arun Jaitley Stadium, Delhi",2.0,1.0,Amit Mishra,4.0,DC,,,,,,1.0,23.0,"[9, 11, 13, 15]",,1.0,33.0,4.0,,0,8
+7057,2022,MI v CSK,MI,CSK,"Dr DY Patil Sports Academy, Navi Mumbai",1.0,2.0,Ishan Kishan,4.0,,MI,13.0,17.0,0.0,2.0,,,,1.0,0.0,27.0,,0.0,0,88
+7403,2014,RR v DC,RR,DC,"Sardar Patel (Gujarat) Stadium, Motera, Ahmedabad",1.0,2.0,James Faulkner,4.0,RR,RR,1.0,4.0,0.0,0.0,1.0,37.0,"[2, 14, 18, 20]",,1.0,36.0,3.4,,0,43
+16301,2010,RCB v KKR,RCB,KKR,"M.Chinnaswamy Stadium, Bengaluru",2.0,1.0,Ross Taylor,4.0,,RCB,1.0,2.0,0.0,0.0,,,,,0.0,5.0,,,0,28
+14306,2013,RCB v PWI,RCB,PWI,"M.Chinnaswamy Stadium, Bengaluru",1.0,2.0,RP Singh,4.0,RCB,,,,,,3.0,13.0,"[2, 4, 17, 19]",1.0,1.0,105.0,4.0,0.0,0,92
+19852,2011,RR v Kochi,RR,Kochi,"Sawai Mansingh Stadium, Jaipur",1.0,2.0,Thisara Perera,4.0,Kochi,Kochi,,,,,1.0,32.0,"[6, 8, 13, 16]",0.0,1.0,49.0,4.0,1.0,0,69
+10636,2016,RCB v KKR,RCB,KKR,"M.Chinnaswamy Stadium, Bengaluru",2.0,1.0,Manish Pandey,4.0,,KKR,12.0,11.0,0.0,1.0,,,,,0.0,17.0,,,0,34
+2702,2019,CSK v RR,CSK,RR,"MA Chidambaram Stadium, Chepauk, Chennai",2.0,1.0,Ben Stokes,4.0,RR,RR,16.0,9.0,0.0,3.0,1.0,40.0,"[5, 10, 12]",,1.0,42.0,3.0,,0,32
+15924,2016,KKR v MI,KKR,MI,"Eden Gardens, Kolkata",1.0,2.0,Robin Uthappa,4.0,,KKR,35.0,33.0,0.0,7.0,,,,1.0,1.0,70.0,,1.0,0,16
+17012,2016,DC v RCB,DC,RCB,"Shaheed Veer Narayan Singh International Stadium, Raipur",1.0,2.0,Sanju Samson,4.0,,DC,3.0,4.0,0.0,0.0,,,,,0.0,7.0,,,0,18
+12626,2009,DC v RR,DC,RR,"Mangaung Oval, Bloemfontein",2.0,1.0,Naman Ojha,4.0,,RR,1.0,4.0,0.0,0.0,,,,1.0,0.0,25.0,,1.0,0,48
+17224,2016,SRH v RPS,SRH,RPS,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2.0,1.0,Saurabh Tiwary,4.0,,RPS,,,,,,,,0.0,0.0,10.0,,1.0,0,37
+11129,2011,DC v RCB,DC,RCB,"Arun Jaitley Stadium, Delhi",1.0,2.0,Matthew Wade,4.0,,DC,3.0,4.0,0.0,0.0,,,,,0.0,7.0,,,0,81
+11771,2019,CSK v PBKS,CSK,PBKS,"MA Chidambaram Stadium, Chepauk, Chennai",2.0,1.0,Mohammed Shami,4.0,PBKS,,0.0,1.0,0.0,0.0,2.0,27.0,"[4, 6, 17, 19]",,1.0,72.0,4.0,,1,10
+9624,2023,RCB v DC,RCB,DC,"M.Chinnaswamy Stadium, Bengaluru",2.0,1.0,Lalit Yadav,4.0,DC,DC,2.0,4.0,0.0,0.0,0.0,23.0,"[4, 6, 8, 14]",0.0,0.0,16.0,4.0,1.0,0,39
+586,2013,PBKS v PWI,PBKS,PWI,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2.0,1.0,Adam Gilchrist,4.0,,PBKS,26.0,25.0,0.0,4.0,,,,,0.0,34.0,,,0,53
+2451,2020,DC v RR,DC,RR,Dubai International Cricket Stadium,1.0,2.0,Axar Patel,4.0,DC,DC,,,,,1.0,18.0,"[2, 5, 8, 10]",0.0,1.0,41.0,4.0,1.0,0,63
+710,2023,MI v SRH,MI,SRH,"Wankhede Stadium, Mumbai",1.0,2.0,Aiden Markram,4.0,,SRH,18.0,20.0,0.0,0.0,,,,,0.0,22.0,,,0,42
+14275,2010,PBKS v DC,PBKS,SRH,"Himachal Pradesh Cricket Association Stadium, Dharamsala",2.0,1.0,RP Singh,4.0,SRH,,,,,,2.0,21.0,"[2, 6, 15, 17]",,1.0,58.0,4.0,,0,18
+7139,2013,CSK v SRH,CSK,SRH,"MA Chidambaram Stadium, Chepauk, Chennai",1.0,2.0,Ishant Sharma,4.0,SRH,,,,,,2.0,29.0,"[3, 6, 14, 17]",2.0,1.0,76.0,4.0,1.0,0,45
+11458,2016,MI v RPS,MI,RPS,"Wankhede Stadium, Mumbai",2.0,1.0,Mitchell Marsh,4.0,RPS,,5.0,8.0,0.0,0.0,2.0,7.0,"[12, 14]",,1.0,65.0,2.0,,0,72
+20287,2013,KKR v DC,KKR,DC,"Eden Gardens, Kolkata",1.0,2.0,Umesh Yadav,4.0,DC,DC,1.0,4.0,0.0,0.0,1.0,27.0,"[2, 4, 18, 20]",,0.0,32.0,4.0,,0,61
+5660,2019,MI v CSK,MI,CSK,"MA Chidambaram Stadium, Chepauk, Chennai",1.0,2.0,Faf du Plessis,4.0,,CSK,96.0,55.0,4.0,10.0,,,,,1.0,132.0,,,0,84
+9264,2019,DC v MI,DC,MI,"Arun Jaitley Stadium, Delhi",1.0,2.0,Krunal Pandya,4.0,MI,MI,11.0,21.0,0.0,1.0,0.0,10.0,[15],,0.0,12.0,1.0,,0,24
+16903,2019,SRH v CSK,SRH,CSK,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2.0,1.0,Sandeep Sharma,4.0,SRH,,1.0,1.0,0.0,0.0,0.0,30.0,"[3, 13, 15, 19]",,0.0,5.0,4.0,,0,90
+5185,2022,GT v LSG,GT,LSG,"Wankhede Stadium, Mumbai",1.0,2.0,Dushmantha Chameera,4.0,LSG,LSG,,,,,,,,,,,,,0,8
+1779,2008,RCB v DC,RCB,DC,"M.Chinnaswamy Stadium, Bengaluru",1.0,2.0,Anil Kumble,4.0,RCB,,8.0,8.0,0.0,1.0,1.0,32.0,"[9, 11, 13, 15]",,1.0,38.0,4.0,,0,75
+6583,2023,SRH v DC,SRH,DC,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2.0,1.0,Harry Brook,4.0,,SRH,18.0,13.0,0.0,3.0,,,,,1.0,27.0,,,0,17
+3682,2021,RR v PBKS,RR,PBKS,"Wankhede Stadium, Mumbai",2.0,1.0,Chris Morris,4.0,RR,RR,2.0,5.0,0.0,0.0,1.0,36.0,"[2, 6, 15, 19]",,1.0,31.0,3.4,,0,44
+20755,2023,CSK v GT,CSK,GT,"MA Chidambaram Stadium, Chepauk, Chennai",2.0,1.0,Vijay Shankar,4.0,,GT,53.0,35.0,2.0,7.0,,,,,1.0,80.0,,,0,65
+18108,2019,CSK v DC,CSK,DC,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",1.0,2.0,Shikhar Dhawan,4.0,,DC,17.0,16.0,0.0,3.0,,,,,0.0,24.0,,,0,13
+14202,2020,RCB v MI,RCB,MI,Dubai International Cricket Stadium,2.0,1.0,Quinton de Kock,4.0,,MI,6.0,4.0,1.0,0.0,,,,,0.0,12.0,,,0,85
+19528,2016,SRH v GL,SRH,GL,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1.0,2.0,Suresh Raina,4.0,,GL,24.0,20.0,1.0,1.0,0.0,34.0,"[3, 5, 7, 9]",,1.0,31.0,4.0,,0,9
+18005,2012,PBKS v DC,PBKS,SRH,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",1.0,2.0,Shikhar Dhawan,4.0,,SRH,8.0,6.0,0.0,1.0,1.0,8.0,"[5, 7]",,1.0,52.0,2.0,,0,31
+4264,2013,DC v SRH,DC,SRH,"Arun Jaitley Stadium, Delhi",1.0,2.0,David Warner,4.0,,DC,61.0,37.0,4.0,5.0,,,,,1.0,90.0,,,0,19
+19974,2023,MI v KKR,KKR,MI,"Wankhede Stadium, Mumbai",2.0,1.0,Tim David,4.0,,MI,13.0,11.0,1.0,0.0,,,,,0.0,19.0,,,0,26
+12114,2021,CSK v PBKS,CSK,PBKS,Dubai International Cricket Stadium,2.0,1.0,Moises Henriques,4.0,PBKS,PBKS,12.0,9.0,1.0,0.0,3.0,12.0,"[10, 12, 14, 16]",,1.0,111.0,4.0,,0,2
+18093,2019,MI v DC,MI,DC,"Wankhede Stadium, Mumbai",1.0,2.0,Shikhar Dhawan,4.0,,DC,26.0,25.0,1.0,2.0,,,,,1.0,34.0,,,0,37
+20046,2009,DC v RR,SRH,RR,"St George's Park, Port Elizabeth",1.0,2.0,Tirumalasetti Suman,4.0,,SRH,23.0,14.0,1.0,1.0,,,,,1.0,34.0,,,0,45
+7211,2015,CSK v KKR,CSK,KKR,"MA Chidambaram Stadium, Chepauk, Chennai",1.0,2.0,Ishwar Pandey,4.0,CSK,,,,,,1.0,17.0,"[1, 3]",,0.0,29.0,2.0,,0,80
+2490,2023,GT v DC,GT,DC,"Narendra Modi Stadium, Motera, Ahmedabad",1.0,2.0,Axar Patel,4.0,DC,DC,29.0,14.0,2.0,1.0,1.0,29.0,"[8, 12, 14, 16]",2.0,1.0,85.0,4.0,0.0,0,42
+5158,2010,DC v CSK,SRH,CSK,"Vidarbha Cricket Association Stadium, Jamtha, Nagpur",1.0,2.0,Doug Bollinger,4.0,CSK,CSK,,,,,1.0,39.0,"[2, 5, 18, 20]",,1.0,37.0,4.0,,0,71
+9616,2022,DC v PBKS,DC,PBKS,"Brabourne Stadium, Mumbai",2.0,1.0,Lalit Yadav,4.0,DC,,1.0,4.0,0.0,0.0,,,,1.0,0.0,25.0,,1.0,0,50
+18295,2021,KKR v PBKS,KKR,PBKS,Dubai International Cricket Stadium,1.0,2.0,Shivam Mavi,4.0,KKR,,,,,,0.0,25.0,[1],1.0,0.0,12.0,1.0,0.0,0,65
+19268,2017,SRH v KKR,SRH,KKR,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2.0,1.0,Sunil Narine,4.0,KKR,KKR,4.0,4.0,0.0,1.0,1.0,25.0,"[5, 10, 15, 18]",,1.0,44.0,4.0,,0,41
+177,2021,RCB v MI,RCB,MI,Dubai International Cricket Stadium,1.0,2.0,AB de Villiers,4.0,,RCB,4.0,1.0,0.0,1.0,,,,2.0,0.0,25.0,,0.0,0,24
+11504,2016,GL v MI,GL,MI,"Green Park, Kanpur",1.0,2.0,Mitchell McClenaghan,4.0,MI,,,,,,0.0,26.0,"[3, 12, 14, 18]",,0.0,6.0,4.0,,0,65
+9399,2023,DC v GT,DC,GT,"Arun Jaitley Stadium, Delhi",1.0,2.0,Kuldeep Yadav,4.0,DC,DC,6.0,10.0,0.0,0.0,1.0,35.0,"[9, 11, 13, 16]",,1.0,33.0,4.0,,0,31
+5036,2020,CSK v KKR,CSK,KKR,Dubai International Cricket Stadium,1.0,2.0,Dinesh Karthik,4.0,,KKR,0.0,1.0,0.0,0.0,,,,4.0,0.0,38.0,,0.0,1,89
+2709,2020,SRH v RR,SRH,RR,Dubai International Cricket Stadium,2.0,1.0,Ben Stokes,4.0,RR,RR,11.0,10.0,0.0,2.0,,,,,0.0,17.0,,,0,56
+7668,2020,MI v RCB,MI,RCB,"Sheikh Zayed Stadium, Abu Dhabi",2.0,1.0,Jasprit Bumrah,4.0,MI,,5.0,3.0,0.0,0.0,1.0,43.0,"[6, 12, 15, 19]",,0.0,32.0,4.0,,0,59
+21090,2021,MI v RCB,MI,RCB,"MA Chidambaram Stadium, Chepauk, Chennai",2.0,1.0,Virat Kohli,4.0,,RCB,6.0,7.0,0.0,0.0,,,,,0.0,10.0,,,0,55
+7355,2019,CSK v DC,CSK,DC,"MA Chidambaram Stadium, Chepauk, Chennai",2.0,1.0,Jagadeesha Suchith,4.0,DC,DC,,,,,0.0,31.0,"[9, 11]",,0.0,-2.0,2.0,,0,79
+11685,2008,PBKS v KKR,PBKS,KKR,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2.0,1.0,Mohammad Hafeez,4.0,KKR,KKR,2.0,6.0,0.0,0.0,0.0,16.0,[9],,0.0,6.0,1.0,,0,61
+15697,2022,DC v RCB,DC,RCB,"Wankhede Stadium, Mumbai",2.0,1.0,Rishabh Pant,4.0,,DC,27.0,14.0,2.0,2.0,,,,0.0,1.0,55.0,,1.0,0,41
+8240,2023,RR v GT,RR,GT,"Sawai Mansingh Stadium, Jaipur",2.0,1.0,Josh Little,4.0,GT,,,,,,0.0,27.0,"[4, 6, 17]",,0.0,4.0,3.0,,0,19
+21745,2012,CSK v KKR,CSK,KKR,"MA Chidambaram Stadium, Chepauk, Chennai",2.0,1.0,Yusuf Pathan,4.0,KKR,KKR,40.0,21.0,2.0,3.0,,,,,1.0,61.0,,,0,64
+21523,2023,GT v DC,GT,DC,"Narendra Modi Stadium, Motera, Ahmedabad",2.0,1.0,Wriddhiman Saha,4.0,,GT,10.0,10.0,0.0,1.0,,,,,0.0,15.0,,,0,40
+5716,2023,LSG v RCB,LSG,RCB,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",1.0,2.0,Faf du Plessis,4.0,,RCB,17.0,7.0,2.0,1.0,,,,,0.0,26.0,,,0,62
+11203,2019,PBKS v MI,PBKS,MI,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2.0,1.0,Mayank Agarwal,4.0,,PBKS,58.0,34.0,1.0,6.0,,,,2.0,1.0,100.0,,0.0,0,63
+6818,2019,MI v CSK,MI,CSK,"Wankhede Stadium, Mumbai",2.0,1.0,Imran Tahir,4.0,CSK,,,,,,2.0,23.0,"[10, 12, 14, 16]",1.0,1.0,74.0,4.0,0.0,0,66
+6479,2021,MI v DC,MI,DC,Sharjah Cricket Stadium,1.0,2.0,Hardik Pandya,4.0,,MI,3.0,6.0,0.0,0.0,,,,,0.0,7.0,,,0,32
+846,2019,RR v CSK,RR,CSK,"Sawai Mansingh Stadium, Jaipur",1.0,2.0,Ajinkya Rahane,4.0,,RR,5.0,7.0,0.0,1.0,,,,,0.0,10.0,,,0,84
+13675,2023,SRH v PBKS,SRH,PBKS,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1.0,2.0,Prabhsimran Singh,4.0,,PBKS,60.0,34.0,3.0,7.0,,,,,1.0,91.0,,,0,64
+11307,2010,CSK v MI,CSK,MI,"MA Chidambaram Stadium, Chepauk, Chennai",1.0,2.0,Michael Hussey,4.0,,CSK,47.0,37.0,2.0,3.0,,,,2.0,1.0,78.0,,0.0,0,91
+1182,2012,CSK v MI,CSK,MI,"M.Chinnaswamy Stadium, Bengaluru",2.0,1.0,Ambati Rayudu,4.0,,MI,11.0,8.0,1.0,0.0,,,,,0.0,17.0,,,0,47
+6348,2017,MI v KKR,MI,KKR,"Wankhede Stadium, Mumbai",2.0,1.0,Harbhajan Singh,4.0,MI,MI,3.0,5.0,0.0,0.0,1.0,36.0,"[8, 10, 12, 14]",,1.0,40.0,4.0,,0,90
+20306,2014,DC v KKR,DC,KKR,"Arun Jaitley Stadium, Delhi",2.0,1.0,Umesh Yadav,4.0,KKR,,,,,,0.0,31.0,"[2, 4, 12]",,0.0,2.0,3.0,,0,43
+5447,2015,RR v CSK,RR,CSK,"Sardar Patel (Gujarat) Stadium, Motera, Ahmedabad",1.0,2.0,Dwayne Smith,4.0,,CSK,62.0,30.0,4.0,8.0,,,,1.0,1.0,104.0,,0.0,0,3
+3293,2016,RCB v DC,RCB,DC,"M.Chinnaswamy Stadium, Bengaluru",2.0,1.0,Carlos Brathwaite,4.0,DC,,,,,,0.0,33.0,"[6, 13, 15, 20]",1.0,0.0,12.0,4.0,0.0,0,83
+11023,2009,RCB v MI,RCB,MI,"The Wanderers Stadium, Johannesburg",2.0,1.0,Mark Boucher,4.0,,,2.0,4.0,0.0,0.0,,,,0.0,0.0,12.0,,1.0,0,70
+22063,2021,SRH v RCB,SRH,RCB,"MA Chidambaram Stadium, Chepauk, Chennai",1.0,2.0,Yuzvendra Chahal,4.0,RCB,,,,,,0.0,41.0,"[4, 6, 10, 14]",0.0,0.0,8.0,4.0,1.0,0,59
+5509,2013,CSK v KKR,CSK,KKR,"MA Chidambaram Stadium, Chepauk, Chennai",2.0,1.0,Eoin Morgan,4.0,,KKR,42.0,26.0,4.0,3.0,,,,2.0,1.0,81.0,,0.0,0,39
+15037,2022,MI v LSG,MI,LSG,"Brabourne Stadium, Mumbai",1.0,2.0,Ravi Bishnoi,4.0,LSG,,,,,,0.0,29.0,"[4, 7, 13, 15]",,0.0,4.0,4.0,,0,97
+17031,2018,CSK v RR,CSK,RR,"Maharashtra Cricket Association Stadium, Pune",2.0,1.0,Sanju Samson,4.0,,RR,7.0,8.0,0.0,1.0,,,,,0.0,12.0,,,0,85
+5396,2009,DC v MI,SRH,MI,"Kingsmead, Durban",1.0,2.0,Dwayne Smith,4.0,SRH,SRH,8.0,7.0,0.0,1.0,0.0,16.0,"[7, 14]",,0.0,13.0,2.0,,0,35
+16271,2023,CSK v MI,CSK,MI,"MA Chidambaram Stadium, Chepauk, Chennai",1.0,2.0,Rohit Sharma,4.0,,MI,0.0,3.0,0.0,0.0,,,,,0.0,2.0,,,1,14
+8340,2020,SRH v PBKS,SRH,PBKS,Dubai International Cricket Stadium,2.0,1.0,KL Rahul,4.0,,PBKS,46.0,41.0,2.0,3.0,,,,,1.0,61.0,,,0,63
+14176,2019,MI v CSK,MI,CSK,"Wankhede Stadium, Mumbai",1.0,2.0,Quinton de Kock,4.0,,MI,60.0,39.0,2.0,6.0,,,,,1.0,86.0,,,0,77
+14204,2020,DC v MI,DC,MI,Dubai International Cricket Stadium,2.0,1.0,Quinton de Kock,4.0,,MI,40.0,25.0,1.0,5.0,,,,2.0,1.0,75.0,,0.0,0,98
+12032,2010,DC v RCB,SRH,RCB,"Dr DY Patil Sports Academy, Mumbai",1.0,2.0,Mohnish  Mishra,4.0,,SRH,2.0,5.0,0.0,0.0,,,,,0.0,6.0,,,0,59
+2051,2023,LSG v PBKS,LSG,PBKS,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2.0,1.0,Arshdeep Singh,4.0,PBKS,,,,,,1.0,33.0,"[1, 3, 12, 19]",,0.0,29.0,4.0,,0,52
+18661,2019,DC v SRH,DC,SRH,"Arun Jaitley Stadium, Delhi",2.0,1.0,Siddarth Kaul,4.0,SRH,,,,,,0.0,16.0,"[9, 11, 15]",,0.0,8.0,3.0,,0,34
+7291,2011,Kochi v KKR,Kochi,KKR,"Nehru Stadium, Kochi",2.0,1.0,Jacques Kallis,4.0,KKR,KKR,30.0,31.0,0.0,4.0,1.0,12.0,"[18, 20]",1.0,1.0,85.0,2.0,0.0,0,13
+4263,2013,MI v DC,MI,DC,"Wankhede Stadium, Mumbai",2.0,1.0,David Warner,4.0,,DC,77.0,56.0,1.0,9.0,,,,1.0,1.0,110.0,,0.0,0,45
+933,2013,DC v CSK,DC,CSK,"Arun Jaitley Stadium, Delhi",2.0,1.0,Ajit Agarkar,4.0,DC,DC,0.0,0.0,0.0,0.0,0.0,33.0,"[7, 9, 11, 16]",1.0,0.0,12.0,4.0,0.0,1,60
+13258,2017,RCB v MI,RCB,MI,"M.Chinnaswamy Stadium, Bengaluru",2.0,1.0,Parthiv Patel,4.0,,MI,39.0,24.0,0.0,7.0,,,,1.0,1.0,66.0,,0.0,0,36
+15165,2014,CSK v MI,CSK,MI,Dubai International Cricket Stadium,2.0,1.0,Ravichandran Ashwin,4.0,CSK,,9.0,13.0,0.0,1.0,1.0,27.0,"[6, 16, 18, 20]",1.0,1.0,51.0,3.5,1.0,0,36
+382,2008,DC v MI,DC,MI,"Arun Jaitley Stadium, Delhi",1.0,2.0,Abhishek Nayar,4.0,,MI,27.0,18.0,2.0,1.0,,,,,1.0,38.0,,,0,57
+11532,2019,PBKS v MI,PBKS,MI,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",1.0,2.0,Mitchell McClenaghan,4.0,MI,MI,1.0,4.0,0.0,0.0,0.0,24.0,"[1, 3]",,0.0,1.0,2.0,,0,27
+5125,2011,RR v RCB,RR,RCB,"Sawai Mansingh Stadium, Jaipur",1.0,2.0,Dishant Yagnik,4.0,,RR,3.0,7.0,0.0,0.0,,,,,0.0,7.0,,,0,25
+14468,2013,DC v RR,DC,RR,"Arun Jaitley Stadium, Delhi",1.0,2.0,Rahul Dravid,4.0,,RR,5.0,5.0,0.0,1.0,,,,,0.0,10.0,,,0,80
+3982,2009,RCB v DC,RCB,DC,"The Wanderers Stadium, Johannesburg",1.0,2.0,Daniel Vettori,4.0,DC,DC,1.0,2.0,0.0,0.0,0.0,15.0,"[10, 12, 14, 20]",,0.0,11.0,3.1,,0,90
+15455,2019,MI v CSK,MI,CSK,"MA Chidambaram Stadium, Chepauk, Chennai",1.0,2.0,Ravindra Jadeja,4.0,CSK,,,,,,1.0,16.0,"[15, 17]",1.0,1.0,37.0,2.0,0.0,0,93
+8745,2016,DC v RPS,DC,RPS,"Arun Jaitley Stadium, Delhi",1.0,2.0,Karun Nair,4.0,,DC,68.0,50.0,1.0,9.0,,,,1.0,1.0,101.0,,0.0,0,33
+20931,2010,RCB v PBKS,RCB,PBKS,"M.Chinnaswamy Stadium, Bengaluru",2.0,1.0,Virat Kohli,4.0,RCB,RCB,2.0,5.0,0.0,0.0,0.0,1.0,[20],,0.0,6.0,0.2,,0,59
+3118,2013,CSK v KKR,CSK,KKR,"MA Chidambaram Stadium, Chepauk, Chennai",2.0,1.0,Brendon McCullum,4.0,,KKR,31.0,36.0,1.0,2.0,,,,2.0,1.0,83.0,,2.0,0,50
+7740,2011,KKR v CSK,KKR,CSK,"Eden Gardens, Kolkata",2.0,1.0,Jaydev Unadkat,4.0,KKR,,,,,,2.0,25.0,"[2, 4, 6, 13]",,1.0,56.0,4.0,,0,99
+2568,2015,RR v KKR,RR,KKR,"Brabourne Stadium, Mumbai",1.0,2.0,Barinder Sran,4.0,RR,,,,,,,,,,,,,,0,40
+20649,2009,DC v RR,SRH,RR,"Diamond Oval, Kimberley",1.0,2.0,Venugopal Rao,4.0,,SRH,32.0,25.0,2.0,1.0,0.0,3.0,[6],2.0,1.0,61.0,1.0,0.0,0,76
+5877,2015,KKR v MI,KKR,MI,"Eden Gardens, Kolkata",2.0,1.0,Gautam Gambhir,4.0,,KKR,23.0,17.0,0.0,3.0,,,,1.0,1.0,40.0,,0.0,0,53
+14779,2012,KKR v DC,KKR,DC,"Eden Gardens, Kolkata",1.0,2.0,Rajat Bhatia,4.0,KKR,KKR,2.0,3.0,0.0,0.0,0.0,9.0,[7],,0.0,6.0,1.0,,0,35
+18280,2018,RCB v KKR,RCB,KKR,"M.Chinnaswamy Stadium, Bengaluru",2.0,1.0,Shivam Mavi,4.0,KKR,,0.0,3.0,0.0,0.0,1.0,58.0,"[4, 7, 17, 20]",0.0,0.0,37.0,4.0,1.0,1,13
+12489,2020,PBKS v DC,PBKS,DC,Dubai International Cricket Stadium,2.0,1.0,Murugan Ashwin,4.0,PBKS,,,,,,1.0,43.0,"[4, 7, 11, 13]",,1.0,27.0,4.0,,0,71
+11903,2022,SRH v RCB,SRH,RCB,"Wankhede Stadium, Mumbai",1.0,2.0,Mohammed Siraj,4.0,RCB,,0.0,0.0,0.0,0.0,0.0,22.0,"[3, 5]",1.0,0.0,10.0,2.0,0.0,1,53
+5504,2013,KKR v SRH,KKR,SRH,"Eden Gardens, Kolkata",1.0,2.0,Eoin Morgan,4.0,,KKR,2.0,5.0,0.0,0.0,,,,1.0,0.0,14.0,,0.0,0,9
+2120,2012,DC v PWI,SRH,PWI,"Barabati Stadium, Cuttack",2.0,1.0,Ashish Nehra,4.0,PWI,,,,,,0.0,29.0,"[1, 8, 13, 19]",,0.0,4.0,4.0,,0,73
+20076,2011,MI v RR,MI,RR,"Wankhede Stadium, Mumbai",1.0,2.0,Tirumalasetti Suman,4.0,,MI,14.0,13.0,2.0,0.0,0.0,15.0,"[7, 9]",1.0,0.0,30.0,2.0,0.0,0,17
+20145,2018,DC v MI,DC,MI,"Arun Jaitley Stadium, Delhi",1.0,2.0,Trent Boult,4.0,DC,,,,,,2.0,20.0,"[1, 3, 18, 20]",1.0,1.0,66.0,4.0,0.0,0,42
+14194,2020,MI v RR,MI,RR,"Sheikh Zayed Stadium, Abu Dhabi",1.0,2.0,Quinton de Kock,4.0,,MI,1.0,3.0,0.0,0.0,,,,2.0,0.0,33.0,,1.0,0,89
+7698,2022,KKR v MI,KKR,MI,"Maharashtra Cricket Association Stadium, Pune",1.0,2.0,Jasprit Bumrah,4.0,MI,,0.0,1.0,0.0,0.0,3.0,17.0,"[1, 3, 14, 19]",,1.0,97.0,4.0,,1,79
+7932,2011,PWI v DC,PWI,SRH,"Dr DY Patil Sports Academy, Mumbai",1.0,2.0,Jesse Ryder,4.0,,PWI,35.0,20.0,2.0,5.0,,,,1.0,1.0,66.0,,0.0,0,75
+16230,2020,MI v DC,MI,DC,"Sheikh Zayed Stadium, Abu Dhabi",2.0,1.0,Rohit Sharma,4.0,,MI,35.0,36.0,1.0,5.0,,,,,1.0,50.0,,,0,90
+20073,2011,MI v DC,MI,DC,"Wankhede Stadium, Mumbai",1.0,2.0,Tirumalasetti Suman,4.0,,,36.0,16.0,3.0,3.0,,,,,1.0,59.0,,,0,10
+19849,2010,MI v CSK,MI,CSK,"Brabourne Stadium, Mumbai",1.0,2.0,Thisara Perera,4.0,CSK,,,,,,,,,,,,,,0,84
+17417,2019,SRH v KKR,SRH,KKR,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2.0,1.0,Shahbaz Nadeem,4.0,SRH,,,,,,1.0,24.0,"[7, 10]",,1.0,33.0,2.0,,0,56
+14390,2023,MI v PBKS,MI,PBKS,"Wankhede Stadium, Mumbai",1.0,2.0,Rahul Chahar,4.0,PBKS,,,,,,0.0,24.0,"[7, 9, 11, 13]",,0.0,6.0,4.0,,0,65
+1934,2023,DC v KKR,DC,KKR,"Arun Jaitley Stadium, Delhi",2.0,1.0,Anrich Nortje,4.0,DC,,23.0,14.0,0.0,4.0,0.0,31.0,"[1, 12, 18, 20]",,0.0,35.0,4.0,,0,85
+3691,2021,KKR v RR,KKR,RR,Sharjah Cricket Stadium,2.0,1.0,Chris Morris,4.0,RR,RR,14.0,11.0,0.0,2.0,0.0,50.0,"[1, 7, 13, 17]",,0.0,14.0,4.0,,0,0
+20104,2011,Kochi v DC,Kochi,DC,"Nehru Stadium, Kochi",1.0,2.0,Travis Birt,4.0,,DC,8.0,11.0,0.0,0.0,,,,,0.0,12.0,,,0,83
+13619,2018,RR v KKR,RR,KKR,"Sawai Mansingh Stadium, Jaipur",2.0,1.0,Piyush Chawla,4.0,KKR,,0.0,3.0,0.0,0.0,1.0,16.0,"[1, 7]",1.0,0.0,37.0,2.0,0.0,1,69
+232,2016,GL v DC,GL,DC,"Saurashtra Cricket Association Stadium, Rajkot",1.0,2.0,Aaron Finch,4.0,,GL,0.0,4.0,0.0,0.0,,,,,0.0,2.0,,,1,53
+2316,2018,SRH v DC,SRH,DC,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1.0,2.0,Avesh Khan,4.0,DC,,,,,,0.0,36.0,"[3, 6]",1.0,0.0,6.0,2.0,0.0,0,81
+14857,2022,RCB v MI,RCB,MI,"Maharashtra Cricket Association Stadium, Pune",1.0,2.0,Ramandeep Singh,4.0,,MI,,,,,,,,,,,,,0,79
+135,2018,RCB v SRH,RCB,SRH,"M.Chinnaswamy Stadium, Bengaluru",1.0,2.0,AB de Villiers,4.0,,RCB,,,,,,,,0.0,0.0,10.0,,1.0,0,77
+3672,2019,CSK v DC,CSK,DC,"MA Chidambaram Stadium, Chepauk, Chennai",2.0,1.0,Chris Morris,4.0,DC,DC,,,,,1.0,41.0,"[8, 13, 16, 19]",1.0,1.0,35.0,4.0,0.0,0,28
+12344,2013,RCB v PWI,RCB,PWI,"M.Chinnaswamy Stadium, Bengaluru",1.0,2.0,Murali Kartik,4.0,RCB,,,,,,1.0,35.0,"[9, 11, 13, 15]",1.0,1.0,37.0,4.0,0.0,0,98
+15473,2021,PBKS v CSK,PBKS,CSK,"Wankhede Stadium, Mumbai",2.0,1.0,Ravindra Jadeja,4.0,CSK,,26.0,17.0,0.0,3.0,0.0,16.0,"[7, 9]",,1.0,37.0,2.0,,0,50
+14607,2023,GT v DC,GT,DC,"Narendra Modi Stadium, Motera, Ahmedabad",2.0,1.0,Rahul Tewatia,4.0,,GT,,,,,,,,2.0,0.0,20.0,,0.0,0,32
+5074,2023,RCB v LSG,RCB,LSG,"M.Chinnaswamy Stadium, Bengaluru",1.0,2.0,Dinesh Karthik,4.0,,RCB,9.0,8.0,0.0,1.0,,,,2.0,0.0,30.0,,0.0,0,59
+15896,2014,RCB v KKR,RCB,KKR,Sharjah Cricket Stadium,1.0,2.0,Robin Uthappa,4.0,,KKR,55.0,41.0,1.0,6.0,,,,,1.0,77.0,,,0,42
+5387,2022,GT v CSK,GT,CSK,"Maharashtra Cricket Association Stadium, Pune",1.0,2.0,Dwayne Bravo,4.0,CSK,,,,,,1.0,42.0,"[12, 14, 18, 20]",,1.0,27.0,4.0,,0,53
+7410,2015,SRH v RR,SRH,RR,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",2.0,1.0,James Faulkner,4.0,RR,RR,6.0,6.0,0.0,0.0,0.0,29.0,"[9, 14, 17]",,0.0,22.0,3.0,,0,26
+16707,2016,DC v RCB,DC,RCB,"Shaheed Veer Narayan Singh International Stadium, Raipur",1.0,2.0,Sam Billings,4.0,,DC,6.0,9.0,0.0,0.0,,,,,0.0,10.0,,,0,91
+14568,2020,PBKS v RR,PBKS,RR,"Sheikh Zayed Stadium, Abu Dhabi",2.0,1.0,Rahul Tewatia,4.0,RR,,,,,,1.0,18.0,"[8, 10, 12, 15]",1.0,1.0,43.0,4.0,0.0,0,55
+19009,2014,RR v DC,RR,DC,"Sardar Patel (Gujarat) Stadium, Motera, Ahmedabad",1.0,2.0,Steven Smith,4.0,,,9.0,8.0,0.0,1.0,,,,,0.0,14.0,,,0,52
+14719,2010,DC v MI,SRH,MI,"Dr DY Patil Sports Academy, Mumbai",1.0,2.0,Rajagopal Sathish,4.0,,MI,5.0,9.0,0.0,0.0,,,,,0.0,9.0,,,0,43
+12780,2023,SRH v PBKS,SRH,PBKS,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1.0,2.0,Nathan Ellis,4.0,PBKS,PBKS,,,,,4.0,30.0,"[6, 11, 15, 17]",,1.0,128.0,4.0,,0,60
+2133,2013,DC v PBKS,DC,PBKS,"Arun Jaitley Stadium, Delhi",1.0,2.0,Ashish Nehra,4.0,DC,,0.0,1.0,0.0,0.0,1.0,14.0,"[3, 6]",,1.0,31.0,2.0,,1,34
+8337,2020,RR v PBKS,RR,PBKS,Sharjah Cricket Stadium,1.0,2.0,KL Rahul,4.0,,PBKS,74.0,58.0,0.0,6.0,,,,,1.0,92.0,,,0,16
+6038,2020,DC v PBKS,DC,PBKS,Dubai International Cricket Stadium,2.0,1.0,Glenn Maxwell,4.0,,PBKS,22.0,18.0,0.0,4.0,0.0,19.0,"[3, 5]",1.0,1.0,38.0,2.0,0.0,0,24
+5546,2020,RCB v KKR,RCB,KKR,Sharjah Cricket Stadium,2.0,1.0,Eoin Morgan,4.0,,KKR,15.0,12.0,0.0,2.0,,,,,0.0,21.0,,,0,49
+21776,2015,KKR v CSK,KKR,CSK,"Eden Gardens, Kolkata",2.0,1.0,Yusuf Pathan,4.0,KKR,,3.0,4.0,0.0,0.0,2.0,40.0,"[8, 10, 12, 16]",,1.0,71.0,4.0,,0,86
+8878,2019,CSK v DC,CSK,DC,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",1.0,2.0,Keemo Paul,4.0,DC,DC,5.0,4.0,0.0,1.0,3.0,32.0,"[8, 14, 18, 20]",1.0,1.0,97.0,4.0,0.0,0,49
+19966,2022,GT v MI,GT,MI,"Brabourne Stadium, Mumbai",1.0,2.0,Tim David,4.0,,MI,20.0,9.0,1.0,2.0,,,,1.0,1.0,36.0,,0.0,0,15
+14149,2015,DC v SRH,DC,SRH,"Shaheed Veer Narayan Singh International Stadium, Raipur",2.0,1.0,Quinton de Kock,4.0,,DC,6.0,6.0,0.0,1.0,,,,0.0,0.0,17.0,,1.0,0,85
+17783,2021,RR v CSK,RR,CSK,"Sheikh Zayed Stadium, Abu Dhabi",1.0,2.0,Shardul Thakur,4.0,CSK,,,,,,1.0,56.0,"[8, 12, 15, 18]",1.0,1.0,31.0,4.0,0.0,0,55
+11306,2008,RCB v CSK,RCB,CSK,"M.Chinnaswamy Stadium, Bengaluru",1.0,2.0,Michael Hussey,4.0,,CSK,5.0,9.0,0.0,1.0,,,,,0.0,10.0,,,0,74
+12945,2017,MI v DC,MI,DC,"Wankhede Stadium, Mumbai",1.0,2.0,Nitish Rana,4.0,,MI,62.0,34.0,7.0,0.0,,,,,1.0,94.0,,,0,80
+11096,2009,CSK v DC,CSK,DC,"Kingsmead, Durban",2.0,1.0,Matthew Hayden,4.0,,CSK,65.0,35.0,2.0,9.0,,,,1.0,1.0,104.0,,0.0,0,50
+4470,2018,RCB v CSK,RCB,CSK,"M.Chinnaswamy Stadium, Bengaluru",2.0,1.0,Deepak Chahar,4.0,CSK,,,,,,3.0,15.0,"[1, 3, 5, 8]",,1.0,101.0,4.0,,0,22
+16147,2014,MI v CSK,MI,CSK,"Brabourne Stadium, Mumbai",1.0,2.0,Rohit Sharma,4.0,,MI,16.0,11.0,1.0,1.0,,,,,0.0,25.0,,,0,84
+6393,2015,CSK v MI,CSK,MI,"Wankhede Stadium, Mumbai",1.0,2.0,Hardik Pandya,4.0,,MI,,,,,0.0,11.0,[9],1.0,0.0,18.0,1.0,1.0,0,81
+557,2010,DC v SRH,DC,SRH,"Arun Jaitley Stadium, Delhi",1.0,2.0,Adam Gilchrist,4.0,,SRH,9.0,5.0,0.0,2.0,,,,1.0,0.0,23.0,,0.0,0,71
+14474,2013,CSK v RR,CSK,RR,"MA Chidambaram Stadium, Chepauk, Chennai",1.0,2.0,Rahul Dravid,4.0,,RR,35.0,31.0,0.0,5.0,,,,,1.0,48.0,,,0,18
+4049,2008,KKR v DC,KKR,DC,"Eden Gardens, Kolkata",1.0,2.0,David Hussey,4.0,,KKR,57.0,29.0,3.0,4.0,,,,,1.0,85.0,,,0,87
+21030,2016,RCB v MI,RCB,MI,"M.Chinnaswamy Stadium, Bengaluru",1.0,2.0,Virat Kohli,4.0,,RCB,20.0,21.0,0.0,2.0,,,,,0.0,26.0,,,0,68
+21330,2023,CSK v SRH,CSK,SRH,"MA Chidambaram Stadium, Chepauk, Chennai",1.0,2.0,Washington Sundar,4.0,SRH,SRH,10.0,6.0,0.0,2.0,0.0,33.0,"[3, 7, 9, 13]",,0.0,16.0,4.0,,0,10
+20443,2016,DC v RPS,DC,RPS,"Arun Jaitley Stadium, Delhi",2.0,1.0,Usman Khawaja,4.0,,RPS,,,,,,,,,,,,,0,38
+8396,2012,RCB v PBKS,RCB,PBKS,"M.Chinnaswamy Stadium, Bengaluru",1.0,2.0,KP Appanna,4.0,RCB,,,,,,0.0,27.0,"[4, 6, 12]",1.0,0.0,12.0,3.0,0.0,0,9
+353,2010,MI v RR,MI,RR,"Brabourne Stadium, Mumbai",2.0,1.0,Abhishek Jhunjhunwala,4.0,RR,RR,,,,,,,,,,,,,0,22
+20730,2020,SRH v RR,SRH,RR,Dubai International Cricket Stadium,1.0,2.0,Vijay Shankar,4.0,SRH,,26.0,27.0,0.0,4.0,,,,0.0,1.0,46.0,,1.0,0,72
+9643,2010,MI v RCB,MI,RCB,"Brabourne Stadium, Mumbai",1.0,2.0,Lasith Malinga,4.0,MI,MI,,,,,1.0,22.0,"[2, 4]",,0.0,35.0,2.0,,0,57
+21599,2009,DC v KKR,DC,KKR,"The Wanderers Stadium, Johannesburg",1.0,2.0,Yashpal Singh,4.0,,KKR,8.0,8.0,0.0,0.0,,,,,0.0,12.0,,,0,75
+21543,2023,GT v KKR,GT,KKR,"Narendra Modi Stadium, Motera, Ahmedabad",1.0,2.0,Yash Dayal,4.0,GT,,,,,,0.0,12.0,[12],,0.0,4.0,1.0,,0,32
+19089,2012,RR v CSK,RR,CSK,"Sawai Mansingh Stadium, Jaipur",1.0,2.0,Stuart Binny,4.0,,RR,,,,,1.0,12.0,"[7, 9, 15]",,1.0,43.0,3.0,,0,83
+6677,2023,RCB v CSK,RCB,CSK,"M.Chinnaswamy Stadium, Bengaluru",2.0,1.0,Harshal Patel,4.0,RCB,,6.0,4.0,1.0,0.0,1.0,32.0,"[9, 12, 17, 20]",,0.0,37.0,4.0,,0,24
+8710,2023,SRH v KKR,SRH,KKR,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2.0,1.0,Kartik Tyagi,4.0,SRH,,0.0,1.0,0.0,0.0,1.0,42.0,"[6, 12, 15, 19]",,0.0,27.0,4.0,,1,25
+19054,2019,KKR v RR,KKR,RR,"Eden Gardens, Kolkata",2.0,1.0,Steven Smith,4.0,,RR,50.0,32.0,0.0,8.0,,,,,1.0,74.0,,,0,1
+7189,2023,DC v PBKS,DC,PBKS,"Arun Jaitley Stadium, Delhi",2.0,1.0,Ishant Sharma,4.0,DC,,,,,,0.0,23.0,"[2, 6]",,0.0,0.0,2.0,,0,4
+3875,2013,SRH v RR,SRH,RR,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1.0,2.0,Dale Steyn,4.0,SRH,SRH,,,,,0.0,23.0,"[1, 3, 16, 19]",,0.0,8.0,4.0,,0,30
+12520,2016,KKR v SRH,KKR,SRH,"Arun Jaitley Stadium, Delhi",1.0,2.0,Mustafizur Rahman,4.0,SRH,,,,,,1.0,32.0,"[11, 13, 17, 19]",,0.0,29.0,4.0,,0,87
+20916,2009,RCB v CSK,RCB,CSK,"St George's Park, Port Elizabeth",2.0,1.0,Virat Kohli,4.0,RCB,RCB,3.0,8.0,0.0,0.0,,,,2.0,1.0,29.0,,1.0,0,71
+15557,2021,PBKS v RCB,PBKS,RCB,"Narendra Modi Stadium, Motera, Ahmedabad",1.0,2.0,Riley Meredith,4.0,PBKS,,,,,,1.0,35.0,"[11, 14, 19]",,0.0,23.0,2.2,,0,94
+12812,2020,CSK v RCB,CSK,RCB,Dubai International Cricket Stadium,1.0,2.0,Navdeep Saini,4.0,RCB,,,,,,0.0,30.0,"[5, 7, 14, 17]",1.0,0.0,12.0,4.0,0.0,0,63
+2218,2009,KKR v RR,KKR,RR,"Kingsmead, Durban",2.0,1.0,Ashok Dinda,4.0,KKR,,,,,,1.0,29.0,"[1, 3, 15, 17]",,1.0,29.0,4.0,,0,14
+13807,2014,RCB v MI,RCB,MI,Dubai International Cricket Stadium,1.0,2.0,Pragyan Ojha,4.0,MI,MI,,,,,0.0,36.0,"[6, 8, 11, 15]",,0.0,4.0,4.0,,0,39
+22167,2012,DC v RCB,DC,RCB,"Arun Jaitley Stadium, Delhi",1.0,2.0,Zaheer Khan,4.0,RCB,,1.0,3.0,0.0,0.0,1.0,34.0,"[1, 3, 17, 19]",,1.0,30.0,4.0,,0,4
+3175,2018,RCB v PBKS,RCB,PBKS,"M.Chinnaswamy Stadium, Bengaluru",2.0,1.0,Brendon McCullum,4.0,,RCB,43.0,27.0,2.0,6.0,,,,1.0,1.0,73.0,,0.0,0,65
+11672,2009,DC v MI,DC,MI,"SuperSport Park, Centurion",1.0,2.0,Mohammad Ashraful,4.0,,MI,,,,,,,,,,,,,0,3
+16568,2013,KKR v CSK,KKR,CSK,"Eden Gardens, Kolkata",2.0,1.0,S Badrinath,4.0,,CSK,34.0,26.0,0.0,4.0,,,,,1.0,48.0,,,0,94
+15573,2018,CSK v KKR,CSK,KKR,"MA Chidambaram Stadium, Chepauk, Chennai",1.0,2.0,Rinku Singh,4.0,,KKR,6.0,6.0,0.0,1.0,,,,1.0,0.0,19.0,,0.0,0,88
+15687,2021,RCB v DC,RCB,DC,Dubai International Cricket Stadium,1.0,2.0,Rishabh Pant,4.0,,DC,24.0,24.0,0.0,2.0,,,,2.0,1.0,58.0,,1.0,0,1
+8157,2020,RR v KKR,RR,KKR,Dubai International Cricket Stadium,2.0,1.0,Jos Buttler,4.0,,RR,13.0,8.0,0.0,2.0,,,,1.0,0.0,27.0,,0.0,0,54
+6662,2022,DC v RCB,DC,RCB,"Wankhede Stadium, Mumbai",1.0,2.0,Harshal Patel,4.0,RCB,,,,,,2.0,23.0,"[7, 14, 18, 20]",,1.0,66.0,4.0,,0,88
+18136,2021,RCB v DC,RCB,DC,Dubai International Cricket Stadium,1.0,2.0,Shikhar Dhawan,4.0,,DC,8.0,8.0,0.0,1.0,,,,,0.0,13.0,,,0,61
+18151,2022,GT v PBKS,GT,PBKS,"Dr DY Patil Sports Academy, Navi Mumbai",2.0,1.0,Shikhar Dhawan,4.0,,PBKS,5.0,15.0,0.0,0.0,,,,1.0,0.0,11.0,,0.0,0,13
+19411,2009,CSK v DC,CSK,SRH,"Buffalo Park, East London",1.0,2.0,Suresh Raina,4.0,CSK,CSK,32.0,21.0,2.0,2.0,0.0,7.0,[11],1.0,1.0,58.0,1.0,0.0,0,43
+20410,2022,SRH v RCB,SRH,RCB,"Wankhede Stadium, Mumbai",2.0,1.0,Umran Malik,4.0,SRH,SRH,,,,,0.0,52.0,"[4, 12, 15, 20]",,0.0,-2.0,4.0,,0,16
+11517,2017,MI v PBKS,MI,PBKS,"Wankhede Stadium, Mumbai",2.0,1.0,Mitchell McClenaghan,4.0,MI,,2.0,1.0,0.0,0.0,1.0,26.0,"[2, 6, 14, 18]",,1.0,41.0,4.0,,0,14
+11285,2023,SRH v MI,SRH,MI,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2.0,1.0,Mayank Markande,4.0,SRH,SRH,,,,,2.0,27.0,"[7, 9, 11, 13]",,1.0,56.0,4.0,,0,20
+17870,2013,PBKS v SRH,PBKS,SRH,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2.0,1.0,Shaun Marsh,4.0,,PBKS,77.0,64.0,2.0,6.0,,,,,1.0,99.0,,,0,12
+14574,2021,RCB v RR,RCB,RR,"Wankhede Stadium, Mumbai",1.0,2.0,Rahul Tewatia,4.0,RR,RR,20.0,15.0,2.0,0.0,1.0,21.0,"[10, 12, 15]",,1.0,57.0,3.0,,0,63
+15678,2021,RR v DC,RR,DC,"Wankhede Stadium, Mumbai",1.0,2.0,Rishabh Pant,4.0,,DC,15.0,12.0,0.0,2.0,,,,0.0,0.0,27.0,,1.0,0,48
+17803,2022,RR v DC,RR,DC,"Dr DY Patil Sports Academy, Navi Mumbai",2.0,1.0,Shardul Thakur,4.0,DC,,24.0,19.0,1.0,2.0,0.0,38.0,"[1, 6, 16]",,0.0,26.0,3.0,,0,52
+19911,2008,RR v DC,RR,DC,"Sawai Mansingh Stadium, Jaipur",1.0,2.0,Tillakaratne Dilshan,4.0,,DC,,,,,,,,,,,,,0,0
+7677,2020,MI v SRH,MI,SRH,Sharjah Cricket Stadium,1.0,2.0,Jasprit Bumrah,4.0,MI,,,,,,3.0,17.0,"[9, 12, 14, 20]",0.0,1.0,117.0,4.0,1.0,0,32
+8511,2015,RCB v SRH,RCB,SRH,"M.Chinnaswamy Stadium, Bengaluru",2.0,1.0,Kane Williamson,4.0,,SRH,26.0,18.0,1.0,1.0,,,,,1.0,35.0,,,0,34
+2140,2015,CSK v SRH,CSK,SRH,"MA Chidambaram Stadium, Chepauk, Chennai",1.0,2.0,Ashish Nehra,4.0,CSK,,,,,,3.0,25.0,"[1, 3, 5, 19]",0.0,1.0,91.0,4.0,1.0,0,13
+12974,2019,KKR v RCB,KKR,RCB,"Eden Gardens, Kolkata",2.0,1.0,Nitish Rana,4.0,,KKR,21.0,18.0,0.0,3.0,,,,,0.0,28.0,,,0,81
+825,2017,MI v RPS,MI,RPS,"Wankhede Stadium, Mumbai",1.0,2.0,Ajinkya Rahane,4.0,,RPS,34.0,34.0,1.0,1.0,,,,1.0,1.0,53.0,,0.0,0,21
+10491,2017,KKR v RCB,KKR,RCB,"Eden Gardens, Kolkata",2.0,1.0,Mandeep Singh,4.0,,RCB,,,,,,,,1.0,0.0,12.0,,0.0,0,94
+12195,2018,KKR v PBKS,KKR,PBKS,"Eden Gardens, Kolkata",2.0,1.0,Mujeeb Ur Rahman,4.0,PBKS,,,,,,0.0,27.0,"[8, 10, 12, 16]",,0.0,6.0,4.0,,0,76
+6514,2019,DC v PBKS,DC,PBKS,"Arun Jaitley Stadium, Delhi",1.0,2.0,Hardus Viljoen,4.0,PBKS,PBKS,,,,,0.0,34.0,"[6, 10, 13, 15]",,0.0,4.0,4.0,,0,82
+13257,2017,MI v SRH,MI,SRH,"Wankhede Stadium, Mumbai",2.0,1.0,Parthiv Patel,4.0,,MI,30.0,27.0,1.0,3.0,,,,,1.0,43.0,,,0,67
+694,2022,SRH v RCB,SRH,RCB,"Wankhede Stadium, Mumbai",2.0,1.0,Aiden Markram,4.0,,SRH,42.0,25.0,3.0,4.0,0.0,11.0,[8],,1.0,64.0,1.0,,0,44
+856,2020,DC v CSK,DC,CSK,Sharjah Cricket Stadium,2.0,1.0,Ajinkya Rahane,4.0,,DC,60.0,46.0,1.0,5.0,,,,1.0,1.0,95.0,,1.0,0,58
+18400,2019,DC v RR,DC,RR,"Arun Jaitley Stadium, Delhi",1.0,2.0,Shreyas Gopal,4.0,RR,RR,,,,,3.0,12.0,[2],,1.0,83.0,1.0,,0,57
+8170,2021,CSK v RR,CSK,RR,"Wankhede Stadium, Mumbai",2.0,1.0,Jos Buttler,4.0,,RR,2.0,7.0,0.0,0.0,,,,1.0,0.0,14.0,,0.0,0,20
+2876,2018,KKR v SRH,KKR,SRH,"Eden Gardens, Kolkata",1.0,2.0,Bhuvneshwar Kumar,4.0,SRH,SRH,7.0,11.0,0.0,0.0,1.0,14.0,"[1, 3, 5, 20]",,1.0,40.0,3.1,,0,22
+11762,2017,DC v RCB,DC,RCB,"Arun Jaitley Stadium, Delhi",2.0,1.0,Mohammed Shami,4.0,DC,DC,2.0,4.0,0.0,0.0,2.0,37.0,"[2, 6, 16, 19]",0.0,1.0,76.0,4.0,1.0,0,26
+17203,2012,PBKS v RCB,PBKS,RCB,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2.0,1.0,Saurabh Tiwary,4.0,,RCB,36.0,23.0,2.0,1.0,,,,,1.0,53.0,,,0,54
+4900,2011,PBKS v DC,PBKS,SRH,"Himachal Pradesh Cricket Association Stadium, Dharamsala",2.0,1.0,Dinesh Karthik,4.0,,PBKS,,,,,,,,1.0,0.0,12.0,,0.0,0,76
+13982,2015,SRH v MI,SRH,MI,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1.0,2.0,Praveen Kumar,4.0,SRH,SRH,,,,,1.0,10.0,[5],,1.0,29.0,1.0,,0,72
+1955,2023,RR v RCB,RR,RCB,"Sawai Mansingh Stadium, Jaipur",1.0,2.0,Anuj Rawat,4.0,,RCB,6.0,4.0,0.0,1.0,,,,1.0,0.0,19.0,,0.0,0,72
+1187,2013,RR v MI,RR,MI,"Sawai Mansingh Stadium, Jaipur",2.0,1.0,Ambati Rayudu,4.0,,MI,,,,,,,,0.0,0.0,10.0,,1.0,0,4
+11937,2014,CSK v PBKS,CSK,PBKS,"Sheikh Zayed Stadium, Abu Dhabi",1.0,2.0,Mohit Sharma,4.0,CSK,,0.0,2.0,0.0,0.0,1.0,26.0,"[1, 3, 5, 7]",0.0,1.0,45.0,4.0,1.0,1,17
+12149,2013,RCB v DC,RCB,DC,"M.Chinnaswamy Stadium, Bengaluru",1.0,2.0,Morne Morkel,4.0,DC,,0.0,1.0,0.0,0.0,2.0,27.0,"[5, 13, 15, 17]",,1.0,64.0,4.0,,1,87
+14301,2012,CSK v MI,CSK,MI,"M.Chinnaswamy Stadium, Bengaluru",2.0,1.0,RP Singh,4.0,MI,MI,,,,,0.0,32.0,"[1, 3, 17]",,0.0,2.0,3.0,,0,87
+16232,2020,RCB v MI,RCB,MI,Dubai International Cricket Stadium,2.0,1.0,Rohit Sharma,4.0,,MI,6.0,5.0,1.0,0.0,,,,1.0,0.0,20.0,,0.0,0,87
+21836,2008,RR v PBKS,RR,PBKS,"Sawai Mansingh Stadium, Jaipur",1.0,2.0,Yuvraj Singh,4.0,,PBKS,23.0,13.0,2.0,1.0,,,,,1.0,38.0,,,0,74
+11629,2019,RCB v PBKS,RCB,PBKS,"M.Chinnaswamy Stadium, Bengaluru",1.0,2.0,Moeen Ali,4.0,RCB,RCB,26.0,16.0,0.0,5.0,,,,,0.0,39.0,,,0,93
+7350,2015,MI v KKR,MI,KKR,"Wankhede Stadium, Mumbai",1.0,2.0,Jagadeesha Suchith,4.0,MI,,4.0,4.0,0.0,0.0,0.0,35.0,"[6, 9, 11]",,0.0,4.0,3.0,,0,23
+17791,2021,CSK v KKR,CSK,KKR,Dubai International Cricket Stadium,1.0,2.0,Shardul Thakur,4.0,CSK,,0.0,1.0,0.0,0.0,0.0,36.0,"[5, 16, 20]",,0.0,-2.0,3.0,,1,52
+6164,2020,RCB v SRH,RCB,SRH,Sharjah Cricket Stadium,1.0,2.0,Gurkeerat Singh,4.0,,,,,,,,,,1.0,0.0,12.0,,0.0,0,36
+9904,2022,GT v RR,GT,RR,"Narendra Modi Stadium, Motera, Ahmedabad",2.0,1.0,Lockie Ferguson,4.0,GT,,,,,,0.0,21.0,"[12, 19]",,0.0,4.0,1.4,,0,65
+1822,2011,Kochi v RR,Kochi,RR,"Holkar Cricket Stadium, Indore",1.0,2.0,Ankeet Chavan,4.0,RR,RR,,,,,,,,,,,,,0,25
+584,2013,PBKS v KKR,PBKS,KKR,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",1.0,2.0,Adam Gilchrist,4.0,,PBKS,0.0,2.0,0.0,0.0,,,,2.0,0.0,18.0,,0.0,1,37
+21527,2023,GT v SRH,GT,SRH,"Narendra Modi Stadium, Motera, Ahmedabad",1.0,2.0,Wriddhiman Saha,4.0,,GT,2.0,5.0,0.0,0.0,,,,,0.0,6.0,,,0,60
+18673,2021,KKR v SRH,KKR,SRH,Dubai International Cricket Stadium,1.0,2.0,Siddarth Kaul,4.0,SRH,SRH,,,,,2.0,36.0,"[6, 12, 16, 20]",,1.0,54.0,4.0,,0,26
+15556,2021,DC v PBKS,DC,PBKS,"Wankhede Stadium, Mumbai",1.0,2.0,Riley Meredith,4.0,PBKS,,0.0,0.0,0.0,0.0,0.0,21.0,"[6, 9, 14, 16]",,0.0,8.0,3.4,,1,3
+9235,2017,MI v RCB,MI,RCB,"Wankhede Stadium, Mumbai",2.0,1.0,Krunal Pandya,4.0,MI,MI,29.0,20.0,1.0,2.0,3.0,14.0,"[7, 9, 14, 16]",,1.0,132.0,4.0,,0,54
+3958,2020,DC v RCB,DC,RCB,"Sheikh Zayed Stadium, Abu Dhabi",2.0,1.0,Daniel Sams,4.0,DC,,,,,,,,,,,,,,0,82
+3571,2014,RCB v KKR,RCB,KKR,Sharjah Cricket Stadium,1.0,2.0,Chris Lynn,4.0,,KKR,6.0,9.0,0.0,1.0,,,,1.0,0.0,19.0,,0.0,0,26
+5682,2021,MI v CSK,MI,CSK,"Arun Jaitley Stadium, Delhi",1.0,2.0,Faf du Plessis,4.0,,CSK,56.0,38.0,1.0,6.0,,,,1.0,1.0,86.0,,0.0,0,55
+12355,2009,CSK v RR,CSK,RR,"Diamond Oval, Kimberley",2.0,1.0,Murali Vijay,4.0,,CSK,31.0,33.0,1.0,2.0,,,,2.0,1.0,59.0,,0.0,0,70
+15956,2018,KKR v PBKS,KKR,PBKS,"Eden Gardens, Kolkata",1.0,2.0,Robin Uthappa,4.0,,KKR,48.0,36.0,2.0,6.0,,,,,1.0,68.0,,,0,30
+14784,2012,PBKS v KKR,PBKS,KKR,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2.0,1.0,Rajat Bhatia,4.0,KKR,,3.0,2.0,0.0,0.0,2.0,14.0,"[11, 13, 15, 17]",0.0,1.0,69.0,4.0,1.0,0,94
+6376,2019,CSK v SRH,CSK,SRH,"MA Chidambaram Stadium, Chepauk, Chennai",2.0,1.0,Harbhajan Singh,4.0,CSK,,,,,,2.0,15.0,"[2, 8, 12, 16]",2.0,1.0,82.0,4.0,1.0,0,58
+21356,2013,KKR v PWI,KKR,PWI,"JSCA International Stadium Complex, Ranchi",1.0,2.0,Wayne Parnell,4.0,PWI,,5.0,7.0,0.0,0.0,0.0,40.0,"[1, 3, 18, 20]",,0.0,7.0,4.0,,0,38
+16496,2015,PBKS v KKR,PBKS,KKR,"Maharashtra Cricket Association Stadium, Pune",2.0,1.0,Ryan ten Doeschate,4.0,,KKR,,,,,,,,1.0,0.0,12.0,,0.0,0,58
+12474,2019,PBKS v RCB,PBKS,RCB,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",1.0,2.0,Murugan Ashwin,4.0,PBKS,,,,,,0.0,23.0,"[7, 9, 11, 13]",,0.0,8.0,4.0,,0,96
+13726,2022,GT v RCB,GT,RCB,"Brabourne Stadium, Mumbai",2.0,1.0,Pradeep Sangwan,4.0,GT,,0.0,4.0,0.0,0.0,0.0,19.0,"[1, 3]",,0.0,4.0,2.0,,1,33
+9438,2008,DC v PBKS,SRH,PBKS,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2.0,1.0,Kumar Sangakkara,4.0,,PBKS,4.0,2.0,0.0,1.0,,,,1.0,0.0,23.0,,1.0,0,84
+5624,2015,MI v CSK,MI,CSK,"Wankhede Stadium, Mumbai",2.0,1.0,Faf du Plessis,4.0,,CSK,20.0,11.0,0.0,5.0,,,,,1.0,35.0,,,0,47
+8078,2019,SRH v DC,SRH,DC,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2.0,1.0,Jonny Bairstow,4.0,,SRH,1.0,6.0,0.0,0.0,,,,,0.0,5.0,,,0,44
+16944,2019,KKR v MI,KKR,MI,"Eden Gardens, Kolkata",1.0,2.0,Sandeep Warrier,4.0,KKR,,,,,,,,,,,,,,0,77
+333,2011,CSK v RCB,CSK,RCB,"MA Chidambaram Stadium, Chepauk, Chennai",2.0,1.0,Abhimanyu Mithun,4.0,RCB,RCB,,,,,0.0,26.0,"[5, 20]",1.0,0.0,6.0,2.0,0.0,0,51
+2618,2016,PBKS v SRH,PBKS,SRH,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2.0,1.0,Ben Cutting,4.0,SRH,SRH,8.0,6.0,1.0,0.0,1.0,31.0,"[2, 4, 12, 14]",1.0,1.0,67.0,4.0,1.0,0,2
+1059,2014,DC v RCB,DC,RCB,Sharjah Cricket Stadium,2.0,1.0,Albie Morkel,4.0,RCB,,10.0,10.0,1.0,0.0,2.0,12.0,"[2, 4, 6]",,1.0,88.0,3.0,,0,61
+7706,2022,MI v KKR,MI,KKR,"Dr DY Patil Sports Academy, Navi Mumbai",2.0,1.0,Jasprit Bumrah,4.0,MI,MI,,,,,0.0,48.0,"[2, 5, 17, 19]",,0.0,0.0,4.0,,0,12
+21141,2008,CSK v DC,CSK,DC,"MA Chidambaram Stadium, Chepauk, Chennai",2.0,1.0,Virender Sehwag,4.0,DC,DC,24.0,12.0,1.0,3.0,0.0,30.0,"[14, 20]",1.0,1.0,41.0,2.0,0.0,0,66
+16168,2016,MI v RCB,MI,RCB,"Wankhede Stadium, Mumbai",2.0,1.0,Rohit Sharma,4.0,,MI,5.0,8.0,0.0,0.0,,,,,0.0,9.0,,,0,31
+12400,2012,CSK v DC,CSK,DC,"MA Chidambaram Stadium, Chepauk, Chennai",1.0,2.0,Murali Vijay,4.0,,CSK,1.0,5.0,0.0,0.0,,,,1.0,0.0,13.0,,0.0,0,31
+1389,2012,DC v RR,SRH,RR,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2.0,1.0,Amit Mishra,4.0,SRH,,,,,,1.0,31.0,"[9, 13, 15]",,0.0,27.0,3.0,,0,52
+19204,2012,MI v KKR,MI,KKR,"Wankhede Stadium, Mumbai",1.0,2.0,Sunil Narine,4.0,KKR,KKR,,,,,2.0,14.0,"[4, 6, 11, 17]",,1.0,68.0,4.0,,0,80
+12569,2009,RCB v CSK,RCB,CSK,"St George's Park, Port Elizabeth",1.0,2.0,Muttiah Muralitharan,4.0,CSK,,,,,,2.0,39.0,"[11, 13, 15, 17]",,1.0,62.0,4.0,,0,4
+15601,2023,KKR v LSG,KKR,LSG,"Eden Gardens, Kolkata",2.0,1.0,Rinku Singh,4.0,,KKR,54.0,43.0,3.0,4.0,,,,,1.0,76.0,,,0,59
+517,2008,MI v DC,MI,SRH,"Dr DY Patil Sports Academy, Mumbai",2.0,1.0,Adam Gilchrist,4.0,,SRH,13.0,9.0,0.0,3.0,,,,,0.0,20.0,,,0,61
+21590,2023,MI v RR,MI,RR,"Wankhede Stadium, Mumbai",1.0,2.0,Yashasvi Jaiswal,4.0,,RR,77.0,43.0,4.0,8.0,,,,,1.0,111.0,,,0,92
+18399,2019,RCB v RR,RCB,RR,"M.Chinnaswamy Stadium, Bengaluru",2.0,1.0,Shreyas Gopal,4.0,RR,,,,,,2.0,30.0,"[4, 8, 10, 15]",1.0,1.0,70.0,4.0,0.0,0,18
+4315,2016,SRH v DC,SRH,DC,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1.0,2.0,David Warner,4.0,,SRH,11.0,14.0,1.0,0.0,,,,,0.0,17.0,,,0,74
+3653,2017,DC v PBKS,DC,PBKS,"Arun Jaitley Stadium, Delhi",1.0,2.0,Chris Morris,4.0,DC,DC,38.0,9.0,3.0,4.0,1.0,19.0,"[4, 6]",2.0,1.0,97.0,2.0,0.0,0,46
+3677,2020,RR v RCB,RR,RCB,Dubai International Cricket Stadium,2.0,1.0,Chris Morris,4.0,RCB,,0.0,2.0,0.0,0.0,0.0,19.0,"[1, 3]",,0.0,2.0,2.0,,1,54
+10734,2010,PBKS v KKR,PBKS,KKR,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",1.0,2.0,Manoj Tiwary,4.0,,KKR,11.0,13.0,0.0,2.0,,,,1.0,0.0,25.0,,0.0,0,71
+8350,2021,CSK v PBKS,CSK,PBKS,Dubai International Cricket Stadium,2.0,1.0,KL Rahul,4.0,,PBKS,39.0,35.0,2.0,1.0,,,,1.0,1.0,60.0,,0.0,0,99
+6076,2022,RCB v GT,RCB,GT,"Wankhede Stadium, Mumbai",2.0,1.0,Glenn Maxwell,4.0,RCB,RCB,35.0,22.0,1.0,3.0,1.0,17.0,"[1, 5]",1.0,1.0,99.0,2.0,1.0,0,3
+12828,2023,LSG v RCB,LSG,RCB,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2.0,1.0,Naveen-ul-Haq,4.0,LSG,LSG,,,,,3.0,30.0,"[4, 6, 17, 19]",,1.0,91.0,4.0,,0,75
+3017,2011,Kochi v RR,Kochi,RR,"Holkar Cricket Stadium, Indore",2.0,1.0,Brad Hodge,4.0,Kochi,Kochi,4.0,6.0,0.0,0.0,0.0,26.0,"[8, 12]",,0.0,2.0,2.0,,0,42
+6083,2023,RCB v CSK,RCB,CSK,"M.Chinnaswamy Stadium, Bengaluru",2.0,1.0,Glenn Maxwell,4.0,RCB,RCB,24.0,14.0,3.0,0.0,,,,1.0,1.0,48.0,,0.0,0,99
+7543,2021,SRH v CSK,SRH,CSK,Sharjah Cricket Stadium,1.0,2.0,Jason Holder,4.0,SRH,SRH,1.0,2.0,0.0,0.0,4.0,52.0,"[4, 9, 18, 20]",,1.0,107.0,4.0,,0,0
+8890,2010,RR v RCB,RR,RCB,"Sawai Mansingh Stadium, Jaipur",2.0,1.0,Kevin Pietersen,4.0,,RCB,16.0,19.0,1.0,0.0,0.0,3.0,[7],,0.0,22.0,1.0,,0,74
+17557,2009,MI v RR,MI,RR,"Kingsmead, Durban",1.0,2.0,Shane Warne,4.0,RR,RR,0.0,1.0,0.0,0.0,1.0,36.0,"[7, 9, 11, 19]",,0.0,29.0,4.0,,1,88
+4120,2013,PBKS v RCB,PBKS,RCB,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2.0,1.0,David Miller,4.0,,PBKS,34.0,39.0,0.0,3.0,,,,1.0,1.0,53.0,,0.0,0,52
+10280,2010,PBKS v DC,PBKS,SRH,"Himachal Pradesh Cricket Association Stadium, Dharamsala",1.0,2.0,Mahela Jayawardene,4.0,,PBKS,38.0,35.0,1.0,4.0,,,,1.0,1.0,60.0,,0.0,0,11
+12258,2009,DC v RR,DC,RR,"Mangaung Oval, Bloemfontein",2.0,1.0,Munaf Patel,4.0,RR,RR,,,,,2.0,22.0,"[2, 4, 18, 20]",,1.0,74.0,3.5,,0,56
+1027,2011,CSK v DC,CSK,SRH,"MA Chidambaram Stadium, Chepauk, Chennai",1.0,2.0,Albie Morkel,4.0,CSK,CSK,0.0,4.0,0.0,0.0,3.0,29.0,"[1, 3, 5, 19]",,1.0,97.0,4.0,,1,41
+12758,2017,SRH v KKR,SRH,KKR,"M.Chinnaswamy Stadium, Bengaluru",2.0,1.0,Nathan Coulter-Nile,4.0,KKR,,6.0,5.0,1.0,0.0,0.0,41.0,"[1, 3, 6]",,0.0,6.0,3.0,,0,85
+3495,2018,PBKS v SRH,PBKS,SRH,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",1.0,2.0,Chris Gayle,4.0,,PBKS,63.0,33.0,4.0,7.0,,,,,1.0,96.0,,,0,62
+1544,2015,PBKS v KKR,PBKS,KKR,"Maharashtra Cricket Association Stadium, Pune",2.0,1.0,Andre Russell,4.0,KKR,KKR,55.0,32.0,4.0,4.0,2.0,20.0,"[13, 15, 17, 20]",,1.0,147.0,4.0,,0,35
+21124,2023,RCB v DC,RCB,DC,"M.Chinnaswamy Stadium, Bengaluru",1.0,2.0,Virat Kohli,4.0,,RCB,61.0,44.0,4.0,4.0,,,,1.0,1.0,95.0,,0.0,0,9
+21473,2017,MI v PBKS,MI,PBKS,"Wankhede Stadium, Mumbai",1.0,2.0,Wriddhiman Saha,4.0,,PBKS,38.0,33.0,1.0,2.0,,,,0.0,1.0,56.0,,1.0,0,99
+2110,2010,CSK v DC,CSK,DC,"MA Chidambaram Stadium, Chepauk, Chennai",2.0,1.0,Ashish Nehra,4.0,DC,,,,,,1.0,30.0,"[1, 3, 17, 19]",,0.0,29.0,4.0,,0,40
+14987,2023,DC v GT,DC,GT,"Arun Jaitley Stadium, Delhi",2.0,1.0,Rashid Khan,4.0,GT,,10.0,3.0,1.0,1.0,2.0,26.0,"[6, 8, 10, 17]",1.0,1.0,77.0,4.0,0.0,0,48
+8423,2020,RCB v DC,RCB,DC,Dubai International Cricket Stadium,1.0,2.0,Kagiso Rabada,4.0,DC,,,,,,1.0,51.0,"[1, 10, 16, 18]",,0.0,23.0,4.0,,0,33
+2671,2013,RR v DC,RR,DC,"Sawai Mansingh Stadium, Jaipur",1.0,2.0,Ben Rohrer,4.0,DC,DC,10.0,3.0,1.0,0.0,,,,1.0,0.0,24.0,,0.0,0,56
+9744,2019,CSK v MI,CSK,MI,"MA Chidambaram Stadium, Chepauk, Chennai",1.0,2.0,Lasith Malinga,4.0,MI,,,,,,0.0,27.0,"[3, 6, 16, 20]",,0.0,4.0,3.1,,0,13
+797,2016,MI v RPS,MI,RPS,"Wankhede Stadium, Mumbai",2.0,1.0,Ajinkya Rahane,4.0,,RPS,42.0,39.0,0.0,4.0,,,,1.0,1.0,62.0,,0.0,0,61
+20096,2020,RR v KKR,RR,KKR,Dubai International Cricket Stadium,2.0,1.0,Tom Curran,4.0,RR,RR,10.0,9.0,0.0,1.0,1.0,54.0,"[6, 14, 18, 20]",1.0,1.0,42.0,4.0,0.0,0,64
+5458,2015,CSK v MI,CSK,MI,"Eden Gardens, Kolkata",2.0,1.0,Dwayne Smith,4.0,CSK,CSK,17.0,12.0,0.0,3.0,,,,,0.0,26.0,,,0,46
+14305,2013,RCB v RR,RCB,RR,"M.Chinnaswamy Stadium, Bengaluru",2.0,1.0,RP Singh,4.0,RCB,,,,,,0.0,48.0,"[2, 14, 17, 20]",,0.0,0.0,4.0,,0,13
+6499,2023,LSG v GT,LSG,GT,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",1.0,2.0,Hardik Pandya,4.0,GT,GT,28.0,19.0,1.0,3.0,1.0,24.0,"[2, 4, 6, 8]",,1.0,66.0,4.0,,0,14
+10583,2011,PWI v MI,PWI,MI,"Dr DY Patil Sports Academy, Mumbai",2.0,1.0,Manish Pandey,4.0,,PWI,30.0,31.0,0.0,4.0,,,,,1.0,42.0,,,0,12
+11283,2023,SRH v PBKS,SRH,PBKS,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2.0,1.0,Mayank Markande,4.0,SRH,,,,,,1.0,26.0,"[7, 9, 11, 13]",,0.0,31.0,4.0,,0,6
+3686,2021,RR v KKR,RR,KKR,"Wankhede Stadium, Mumbai",2.0,1.0,Chris Morris,4.0,RR,,10.0,7.0,1.0,0.0,0.0,38.0,"[4, 11, 13]",,0.0,10.0,3.0,,0,49
+21589,2023,RR v CSK,RR,CSK,"Sawai Mansingh Stadium, Jaipur",1.0,2.0,Yashasvi Jaiswal,4.0,,RR,47.0,37.0,2.0,5.0,,,,1.0,1.0,90.0,,2.0,0,61
+17078,2021,SRH v RR,SRH,RR,Dubai International Cricket Stadium,1.0,2.0,Sanju Samson,4.0,,RR,70.0,53.0,1.0,8.0,,,,0.0,1.0,106.0,,1.0,0,62
+21004,2014,RCB v CSK,RCB,CSK,"M.Chinnaswamy Stadium, Bengaluru",1.0,2.0,Virat Kohli,4.0,,RCB,38.0,31.0,1.0,3.0,,,,0.0,1.0,57.0,,1.0,0,48
+19496,2014,CSK v RCB,CSK,RCB,"JSCA International Stadium Complex, Ranchi",1.0,2.0,Suresh Raina,4.0,CSK,CSK,2.0,3.0,0.0,0.0,,,,,0.0,6.0,,,0,41
+12387,2011,CSK v RCB,CSK,RCB,"MA Chidambaram Stadium, Chepauk, Chennai",1.0,2.0,Murali Vijay,4.0,,CSK,5.0,5.0,0.0,1.0,,,,1.0,0.0,18.0,,0.0,0,70
+20407,2022,GT v SRH,GT,SRH,"Wankhede Stadium, Mumbai",1.0,2.0,Umran Malik,4.0,SRH,,,,,,1.0,13.0,"[8, 10, 12, 14]",,1.0,35.0,4.0,,0,15
+1739,2012,KKR v PWI,KKR,PWI,"Eden Gardens, Kolkata",2.0,1.0,Angelo Mathews,4.0,PWI,PWI,6.0,2.0,0.0,1.0,0.0,32.0,"[6, 11]",0.0,0.0,11.0,2.0,1.0,0,25
+4017,2013,RR v SRH,RR,SRH,"Arun Jaitley Stadium, Delhi",1.0,2.0,Daren Sammy,4.0,SRH,SRH,17.0,12.0,2.0,0.0,0.0,9.0,[7],,0.0,27.0,1.0,,0,28
+1026,2011,CSK v PWI,CSK,PWI,"MA Chidambaram Stadium, Chepauk, Chennai",1.0,2.0,Albie Morkel,4.0,CSK,CSK,3.0,4.0,0.0,0.0,1.0,19.0,"[1, 3, 5, 7]",,1.0,50.0,4.0,,0,10
+7936,2012,PWI v CSK,PWI,CSK,"Maharashtra Cricket Association Stadium, Pune",2.0,1.0,Jesse Ryder,4.0,,PWI,7.0,11.0,0.0,1.0,0.0,12.0,"[7, 9]",,0.0,12.0,2.0,,0,73
+5679,2021,KKR v CSK,KKR,CSK,"Wankhede Stadium, Mumbai",1.0,2.0,Faf du Plessis,4.0,,CSK,33.0,17.0,2.0,4.0,,,,,1.0,55.0,,,0,41
+18296,2021,KKR v RR,KKR,RR,Sharjah Cricket Stadium,1.0,2.0,Shivam Mavi,4.0,KKR,,,,,,1.0,31.0,"[2, 4, 17, 19]",2.0,1.0,45.0,4.0,0.0,0,68
+7380,2013,RR v MI,RR,MI,"Sawai Mansingh Stadium, Jaipur",1.0,2.0,James Faulkner,4.0,RR,,,,,,2.0,30.0,"[7, 12, 17, 19]",0.0,1.0,66.0,3.5,1.0,0,51
+5868,2014,DC v KKR,DC,KKR,"Arun Jaitley Stadium, Delhi",2.0,1.0,Gautam Gambhir,4.0,,KKR,54.0,34.0,1.0,6.0,,,,,1.0,78.0,,,0,22
+11108,2010,DC v CSK,DC,CSK,"Arun Jaitley Stadium, Delhi",2.0,1.0,Matthew Hayden,4.0,,CSK,1.0,8.0,0.0,0.0,,,,,0.0,5.0,,,0,14
+3023,2012,RR v DC,RR,SRH,"Sawai Mansingh Stadium, Jaipur",2.0,1.0,Brad Hodge,4.0,RR,RR,1.0,2.0,0.0,0.0,,,,1.0,0.0,13.0,,0.0,0,1
+17719,2019,CSK v DC,CSK,DC,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",2.0,1.0,Shane Watson,4.0,,CSK,10.0,13.0,0.0,2.0,,,,,0.0,16.0,,,0,59
+21914,2014,RCB v DC,RCB,DC,"M.Chinnaswamy Stadium, Bengaluru",1.0,2.0,Yuvraj Singh,4.0,RCB,RCB,83.0,38.0,7.0,7.0,4.0,35.0,"[7, 9, 11, 14]",,1.0,254.0,4.0,,0,8
+17068,2021,RR v PBKS,RR,PBKS,"Wankhede Stadium, Mumbai",2.0,1.0,Sanju Samson,4.0,,RR,25.0,18.0,2.0,0.0,,,,,0.0,35.0,,,0,48
+4111,2013,PBKS v PWI,PBKS,PWI,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2.0,1.0,David Miller,4.0,,PBKS,20.0,17.0,0.0,1.0,,,,1.0,0.0,33.0,,0.0,0,58
+98,2015,RR v RCB,RR,RCB,"Maharashtra Cricket Association Stadium, Pune",1.0,2.0,AB de Villiers,4.0,,RCB,0.0,1.0,0.0,0.0,,,,,0.0,2.0,,,1,35
+18054,2016,MI v SRH,MI,SRH,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",1.0,2.0,Shikhar Dhawan,4.0,,SRH,47.0,40.0,0.0,6.0,,,,,1.0,61.0,,,0,49
+15523,2012,CSK v MI,CSK,MI,"MA Chidambaram Stadium, Chepauk, Chennai",2.0,1.0,Richard Levi,4.0,,MI,,,,,,,,,,,,,0,67
+16139,2014,MI v RCB,MI,RCB,"Wankhede Stadium, Mumbai",1.0,2.0,Rohit Sharma,4.0,MI,MI,39.0,34.0,2.0,4.0,,,,0.0,1.0,67.0,,1.0,0,3
+7391,2013,SRH v RR,SRH,RR,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2.0,1.0,James Faulkner,4.0,RR,RR,12.0,13.0,0.0,2.0,2.0,32.0,"[2, 11, 16, 20]",0.0,1.0,74.0,4.0,1.0,0,0
+2534,2012,PBKS v DC,PBKS,SRH,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2.0,1.0,Azhar Mahmood,4.0,PBKS,PBKS,14.0,9.0,0.0,2.0,0.0,31.0,"[6, 10, 16, 20]",1.0,0.0,28.0,4.0,0.0,0,71
+19031,2017,RPS v MI,RPS,MI,"Maharashtra Cricket Association Stadium, Pune",2.0,1.0,Steven Smith,4.0,,RPS,45.0,23.0,3.0,4.0,,,,,1.0,69.0,,,0,70
+13303,2012,PBKS v RCB,PBKS,RCB,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",1.0,2.0,Parvinder Awana,4.0,PBKS,,,,,,0.0,18.0,"[2, 4, 15, 19]",0.0,0.0,22.0,4.0,1.0,0,75
+6901,2009,PBKS v RR,PBKS,RR,"Newlands, Cape Town",1.0,2.0,Irfan Pathan,4.0,PBKS,PBKS,,,,,3.0,35.0,"[2, 5, 16, 20]",,1.0,99.0,4.0,,0,54
+1523,2011,MI v DC,MI,SRH,"Wankhede Stadium, Mumbai",1.0,2.0,Anand Rajan,4.0,SRH,,,,,,,,,,,,,,0,1
+6494,2022,GT v RR,GT,RR,"Narendra Modi Stadium, Motera, Ahmedabad",2.0,1.0,Hardik Pandya,4.0,GT,GT,40.0,27.0,0.0,5.0,1.0,14.0,"[13, 15]",,1.0,90.0,2.0,,0,66
+16148,2015,KKR v MI,KKR,MI,"Eden Gardens, Kolkata",1.0,2.0,Rohit Sharma,4.0,,MI,20.0,16.0,0.0,3.0,,,,,0.0,27.0,,,0,58
+13590,2015,KKR v DC,KKR,DC,"Eden Gardens, Kolkata",1.0,2.0,Piyush Chawla,4.0,KKR,KKR,,,,,0.0,15.0,[12],,0.0,4.0,1.0,,0,50
+9156,2021,MI v CSK,MI,CSK,"Arun Jaitley Stadium, Delhi",2.0,1.0,Kieron Pollard,4.0,MI,MI,16.0,8.0,1.0,2.0,,,,,0.0,24.0,,,0,98
+2621,2016,RCB v SRH,RCB,SRH,"M.Chinnaswamy Stadium, Bengaluru",1.0,2.0,Ben Cutting,4.0,SRH,SRH,8.0,7.0,0.0,1.0,2.0,20.0,"[7, 13, 18]",,1.0,73.0,3.0,,0,18
+15646,2018,DC v MI,DC,MI,"Arun Jaitley Stadium, Delhi",1.0,2.0,Rishabh Pant,4.0,,DC,38.0,26.0,2.0,3.0,,,,,1.0,55.0,,,0,11
+16782,2017,RCB v MI,RCB,MI,"M.Chinnaswamy Stadium, Bengaluru",1.0,2.0,Samuel Badree,4.0,RCB,,,,,,0.0,29.0,"[2, 4, 15]",,0.0,4.0,3.0,,0,92
+11557,2014,RCB v PBKS,RCB,PBKS,"M.Chinnaswamy Stadium, Bengaluru",2.0,1.0,Mitchell Starc,4.0,RCB,RCB,5.0,4.0,0.0,1.0,0.0,29.0,"[1, 3, 17, 20]",0.0,0.0,16.0,4.0,1.0,0,22
+9676,2012,PWI v MI,PWI,MI,"Maharashtra Cricket Association Stadium, Pune",1.0,2.0,Lasith Malinga,4.0,MI,MI,,,,,4.0,16.0,"[5, 9, 17, 19]",,1.0,126.0,3.4,,0,89
+10684,2020,SRH v RR,SRH,RR,Dubai International Cricket Stadium,1.0,2.0,Manish Pandey,4.0,,SRH,26.0,19.0,1.0,3.0,,,,1.0,1.0,45.0,,0.0,0,73
+8334,2020,MI v PBKS,MI,PBKS,Dubai International Cricket Stadium,2.0,1.0,KL Rahul,4.0,,PBKS,63.0,52.0,1.0,7.0,,,,,1.0,84.0,,,0,38
+613,2016,RPS v SRH,RPS,SRH,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",2.0,1.0,Adam Zampa,4.0,RPS,RPS,,,,,2.0,35.0,"[7, 9, 12, 18]",,1.0,54.0,4.0,,0,85
+2368,2014,DC v PBKS,DC,PBKS,"Arun Jaitley Stadium, Delhi",2.0,1.0,Axar Patel,4.0,PBKS,PBKS,,,,,0.0,40.0,"[8, 14, 16, 18]",,0.0,2.0,4.0,,0,30
+786,2015,SRH v RR,SRH,RR,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",2.0,1.0,Ajinkya Rahane,4.0,,RR,46.0,39.0,0.0,4.0,,,,,1.0,58.0,,,0,19
+13578,2014,PBKS v KKR,PBKS,KKR,"Barabati Stadium, Cuttack",2.0,1.0,Piyush Chawla,4.0,KKR,,1.0,2.0,0.0,0.0,0.0,31.0,"[6, 8, 10]",,0.0,3.0,3.0,,0,60
+6547,2021,PBKS v RCB,PBKS,RCB,"Narendra Modi Stadium, Motera, Ahmedabad",1.0,2.0,Harpreet Brar,4.0,PBKS,PBKS,,,,,0.0,41.0,"[4, 8, 13, 15]",,0.0,2.0,4.0,,0,13
+10037,2011,RCB v CSK,RCB,CSK,"M.Chinnaswamy Stadium, Bengaluru",1.0,2.0,MS Dhoni,4.0,,CSK,9.0,6.0,0.0,1.0,,,,0.0,0.0,20.0,,1.0,0,14
+5313,2015,SRH v CSK,SRH,CSK,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2.0,1.0,Dwayne Bravo,4.0,CSK,CSK,5.0,7.0,0.0,1.0,3.0,22.0,"[16, 18, 20]",2.0,1.0,113.0,3.0,0.0,0,83
+8180,2022,RR v KKR,RR,KKR,"Brabourne Stadium, Mumbai",1.0,2.0,Jos Buttler,4.0,,RR,54.0,24.0,3.0,8.0,,,,,1.0,86.0,,,0,89
+16627,2010,RR v MI,RR,MI,"Sawai Mansingh Stadium, Jaipur",1.0,2.0,Sachin Tendulkar,4.0,,MI,29.0,25.0,0.0,3.0,,,,,1.0,36.0,,,0,84
+4658,2021,RCB v CSK,RCB,CSK,Sharjah Cricket Stadium,1.0,2.0,Devdutt Padikkal,4.0,,RCB,0.0,4.0,0.0,0.0,,,,1.0,0.0,10.0,,0.0,1,37
+1622,2022,KKR v GT,KKR,GT,"Dr DY Patil Sports Academy, Navi Mumbai",2.0,1.0,Andre Russell,4.0,KKR,KKR,0.0,1.0,0.0,0.0,1.0,29.0,"[16, 20]",,0.0,21.0,2.0,,1,35
+6063,2021,RCB v MI,RCB,MI,Dubai International Cricket Stadium,1.0,2.0,Glenn Maxwell,4.0,RCB,RCB,50.0,30.0,1.0,6.0,0.0,17.0,"[3, 8]",,1.0,74.0,2.0,,0,16
+20602,2021,DC v KKR,DC,KKR,Sharjah Cricket Stadium,2.0,1.0,Venkatesh Iyer,4.0,,KKR,26.0,30.0,1.0,0.0,,,,1.0,1.0,40.0,,0.0,0,9
+19236,2014,KKR v RCB,KKR,RCB,"Eden Gardens, Kolkata",1.0,2.0,Sunil Narine,4.0,KKR,,,,,,1.0,24.0,"[5, 11, 15, 19]",,1.0,31.0,4.0,,0,29
+17720,2019,MI v CSK,MI,CSK,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2.0,1.0,Shane Watson,4.0,,CSK,50.0,32.0,4.0,3.0,,,,1.0,1.0,85.0,,0.0,0,43
+11083,2023,CSK v DC,CSK,DC,"MA Chidambaram Stadium, Chepauk, Chennai",1.0,2.0,Matheesha Pathirana,4.0,CSK,,,,,,3.0,15.0,"[13, 15, 18, 20]",,1.0,97.0,4.0,,0,58
+17827,2008,PBKS v RCB,PBKS,RCB,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2.0,1.0,Shaun Marsh,4.0,,PBKS,58.0,38.0,4.0,3.0,,,,1.0,1.0,93.0,,0.0,0,8
+19539,2017,KKR v GL,KKR,GL,"Eden Gardens, Kolkata",2.0,1.0,Suresh Raina,4.0,GL,GL,23.0,8.0,2.0,2.0,,,,,1.0,33.0,,,0,94
+6634,2018,DC v CSK,DC,CSK,"Arun Jaitley Stadium, Delhi",1.0,2.0,Harshal Patel,4.0,DC,DC,,,,,1.0,51.0,"[5, 11, 13, 18]",,0.0,23.0,4.0,,0,6
+2387,2015,PBKS v RCB,PBKS,RCB,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",1.0,2.0,Axar Patel,4.0,PBKS,PBKS,15.0,11.0,0.0,2.0,0.0,19.0,"[9, 13]",,0.0,23.0,2.0,,0,23
+4648,2021,RCB v RR,RCB,RR,"Wankhede Stadium, Mumbai",2.0,1.0,Devdutt Padikkal,4.0,,RCB,25.0,28.0,0.0,2.0,,,,1.0,1.0,39.0,,0.0,0,99
+8332,2020,PBKS v RCB,PBKS,RCB,Dubai International Cricket Stadium,1.0,2.0,KL Rahul,4.0,,PBKS,29.0,27.0,1.0,3.0,,,,1.0,1.0,46.0,,0.0,0,25
+18099,2019,KKR v DC,KKR,DC,"Eden Gardens, Kolkata",2.0,1.0,Shikhar Dhawan,4.0,,DC,0.0,1.0,0.0,0.0,,,,,0.0,2.0,,,1,13
+19012,2015,RR v MI,RR,MI,"Sardar Patel (Gujarat) Stadium, Motera, Ahmedabad",2.0,1.0,Steven Smith,4.0,,RR,10.0,9.0,0.0,2.0,,,,,0.0,16.0,,,0,26
+100,2016,RCB v SRH,RCB,SRH,"M.Chinnaswamy Stadium, Bengaluru",1.0,2.0,AB de Villiers,4.0,,RCB,1.0,3.0,0.0,0.0,,,,,0.0,5.0,,,0,98
+10142,2018,RCB v CSK,RCB,CSK,"M.Chinnaswamy Stadium, Bengaluru",2.0,1.0,MS Dhoni,4.0,,CSK,25.0,12.0,1.0,3.0,,,,,1.0,40.0,,,0,32
+8294,2016,RCB v MI,RCB,MI,"M.Chinnaswamy Stadium, Bengaluru",1.0,2.0,KL Rahul,4.0,,RCB,42.0,25.0,1.0,6.0,,,,0.0,1.0,86.0,,2.0,0,23
+4509,2021,PBKS v CSK,PBKS,CSK,"Wankhede Stadium, Mumbai",2.0,1.0,Deepak Chahar,4.0,CSK,,,,,,0.0,36.0,"[1, 3, 6, 15]",,0.0,4.0,4.0,,0,29
+2643,2012,RR v CSK,RR,CSK,"Sawai Mansingh Stadium, Jaipur",2.0,1.0,Ben Hilfenhaus,4.0,CSK,,,,,,2.0,34.0,"[1, 3, 5, 20]",,1.0,74.0,4.0,,0,11
+7073,2023,PBKS v MI,PBKS,MI,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2.0,1.0,Ishan Kishan,4.0,,MI,28.0,23.0,0.0,4.0,,,,,1.0,36.0,,,0,71
+21033,2016,RCB v PBKS,RCB,PBKS,"M.Chinnaswamy Stadium, Bengaluru",1.0,2.0,Virat Kohli,4.0,,RCB,75.0,51.0,3.0,5.0,,,,,1.0,100.0,,,0,49
+6697,2016,PBKS v SRH,PBKS,SRH,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",1.0,2.0,Hashim Amla,4.0,,PBKS,0.0,5.0,0.0,0.0,,,,,0.0,2.0,,,1,16
+10564,2009,CSK v RCB,CSK,RCB,"The Wanderers Stadium, Johannesburg",2.0,1.0,Manish Pandey,4.0,,RCB,114.0,73.0,4.0,10.0,,,,1.0,1.0,164.0,,0.0,0,28
+15476,2021,CSK v RCB,CSK,RCB,"Wankhede Stadium, Mumbai",1.0,2.0,Ravindra Jadeja,4.0,CSK,CSK,6.0,1.0,1.0,0.0,0.0,33.0,"[7, 9, 11, 13]",1.0,0.0,20.0,4.0,0.0,0,95
+7536,2020,RCB v SRH,RCB,SRH,Sharjah Cricket Stadium,2.0,1.0,Jason Holder,4.0,SRH,SRH,5.0,8.0,0.0,0.0,2.0,27.0,"[6, 10, 12, 18]",,1.0,61.0,4.0,,0,96
+21593,2023,KKR v RR,KKR,RR,"Eden Gardens, Kolkata",2.0,1.0,Yashasvi Jaiswal,4.0,,RR,35.0,18.0,2.0,5.0,,,,1.0,1.0,66.0,,0.0,0,27
+21331,2023,SRH v DC,SRH,DC,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2.0,1.0,Washington Sundar,4.0,SRH,SRH,9.0,6.0,0.0,1.0,0.0,16.0,"[7, 13, 19]",,0.0,16.0,2.4,,0,4
+5322,2016,PBKS v GL,PBKS,GL,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2.0,1.0,Dwayne Bravo,4.0,GL,GL,9.0,6.0,1.0,0.0,2.0,36.0,"[12, 14, 18, 20]",,1.0,65.0,4.0,,0,0
+9805,2014,PBKS v MI,PBKS,MI,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2.0,1.0,Lendl Simmons,4.0,,MI,62.0,51.0,2.0,6.0,,,,,1.0,84.0,,,0,34
+6320,2015,MI v PBKS,MI,PBKS,"Wankhede Stadium, Mumbai",2.0,1.0,Harbhajan Singh,4.0,MI,MI,,,,,1.0,38.0,"[8, 10, 12, 14]",1.0,1.0,37.0,4.0,0.0,0,56
+5907,2017,KKR v PBKS,KKR,PBKS,"Eden Gardens, Kolkata",2.0,1.0,Gautam Gambhir,4.0,,KKR,19.0,13.0,0.0,3.0,,,,,0.0,28.0,,,0,35
+805,2016,DC v RPS,DC,RPS,"Arun Jaitley Stadium, Delhi",2.0,1.0,Ajinkya Rahane,4.0,,RPS,4.0,5.0,0.0,0.0,,,,1.0,0.0,16.0,,0.0,0,88
+12769,2021,RR v MI,RR,MI,Sharjah Cricket Stadium,2.0,1.0,Nathan Coulter-Nile,4.0,MI,,3.0,3.0,0.0,0.0,2.0,40.0,"[5, 15, 17, 19]",1.0,1.0,71.0,4.0,0.0,0,72
+1244,2017,KKR v MI,KKR,MI,"Eden Gardens, Kolkata",1.0,2.0,Ambati Rayudu,4.0,,MI,10.0,12.0,0.0,0.0,,,,,0.0,14.0,,,0,15
+5833,2012,PBKS v KKR,PBKS,KKR,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2.0,1.0,Gautam Gambhir,4.0,,KKR,22.0,13.0,0.0,4.0,,,,0.0,1.0,40.0,,1.0,0,13
+5061,2022,DC v RCB,DC,RCB,"Wankhede Stadium, Mumbai",1.0,2.0,Dinesh Karthik,4.0,,RCB,34.0,14.0,3.0,2.0,,,,0.0,1.0,62.0,,1.0,0,33
+3092,2010,KKR v MI,KKR,MI,"Eden Gardens, Kolkata",2.0,1.0,Brendon McCullum,4.0,,KKR,6.0,7.0,0.0,1.0,,,,0.0,0.0,17.0,,1.0,0,82
+9629,2009,DC v MI,SRH,MI,"Kingsmead, Durban",2.0,1.0,Lasith Malinga,4.0,MI,,,,,,3.0,15.0,"[1, 6, 16, 20]",,1.0,97.0,4.0,,0,8
+21913,2014,RCB v RR,RCB,RR,"M.Chinnaswamy Stadium, Bengaluru",1.0,2.0,Yuvraj Singh,4.0,RCB,RCB,3.0,11.0,0.0,0.0,0.0,19.0,[8],,0.0,1.0,1.0,,0,49
+5183,2012,RCB v DC,RCB,DC,"M.Chinnaswamy Stadium, Bengaluru",2.0,1.0,Doug Bracewell,4.0,DC,DC,,,,,,,,,,,,,0,32
+14666,2021,MI v KKR,MI,KKR,"Sheikh Zayed Stadium, Abu Dhabi",2.0,1.0,Rahul Tripathi,4.0,,KKR,9.0,5.0,1.0,0.0,,,,,0.0,15.0,,,0,67
+16793,2008,KKR v MI,KKR,MI,"Eden Gardens, Kolkata",2.0,1.0,Sanath Jayasuriya,4.0,MI,MI,18.0,21.0,0.0,2.0,0.0,17.0,"[5, 9]",,1.0,24.0,2.0,,0,12
+16122,2013,MI v PBKS,MI,PBKS,"Wankhede Stadium, Mumbai",1.0,2.0,Rohit Sharma,4.0,,MI,10.0,8.0,0.0,1.0,,,,,0.0,15.0,,,0,11
+11041,2023,LSG v DC,LSG,DC,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",1.0,2.0,Mark Wood,4.0,LSG,,1.0,3.0,0.0,0.0,0.0,49.0,"[10, 14, 17, 19]",1.0,0.0,7.0,4.0,0.0,0,92
+1782,2009,RCB v RR,RCB,RR,"Newlands, Cape Town",1.0,2.0,Anil Kumble,4.0,RCB,,,,,,0.0,47.0,"[7, 10, 12, 20]",1.0,0.0,8.0,4.0,0.0,0,61
+18448,2017,GL v DC,GL,DC,"Green Park, Kanpur",2.0,1.0,Shreyas Iyer,4.0,,DC,3.0,6.0,0.0,0.0,,,,,0.0,7.0,,,0,22
+6652,2021,RCB v SRH,RCB,SRH,"Sheikh Zayed Stadium, Abu Dhabi",2.0,1.0,Harshal Patel,4.0,RCB,,1.0,1.0,0.0,0.0,0.0,27.0,"[6, 12, 18, 20]",1.0,0.0,27.0,4.0,1.0,0,2
+914,2009,KKR v RR,KKR,RR,"Kingsmead, Durban",2.0,1.0,Ajit Agarkar,4.0,KKR,KKR,,,,,0.0,45.0,"[4, 14, 18, 20]",,0.0,0.0,4.0,,0,97
+12189,2009,DC v KKR,DC,KKR,"Kingsmead, Durban",1.0,2.0,Morne van Wyk,4.0,,KKR,18.0,12.0,1.0,1.0,,,,1.0,1.0,35.0,,0.0,0,28
+14895,2017,SRH v GL,SRH,GL,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2.0,1.0,Rashid Khan,4.0,SRH,,,,,,2.0,36.0,"[6, 8, 13, 15]",,1.0,62.0,4.0,,0,33
+200,2013,CSK v PWI,CSK,PWI,"MA Chidambaram Stadium, Chepauk, Chennai",1.0,2.0,Aaron Finch,4.0,PWI,PWI,0.0,1.0,0.0,0.0,1.0,11.0,"[1, 9]",,1.0,31.0,2.0,,1,1
+10161,2019,RCB v CSK,RCB,CSK,"M.Chinnaswamy Stadium, Bengaluru",2.0,1.0,MS Dhoni,4.0,,CSK,16.0,13.0,1.0,0.0,,,,0.0,0.0,28.0,,1.0,0,86
+4636,2020,RCB v RR,RCB,RR,"Sheikh Zayed Stadium, Abu Dhabi",2.0,1.0,Devdutt Padikkal,4.0,,RCB,1.0,2.0,0.0,0.0,,,,,0.0,5.0,,,0,98
+13954,2013,RR v PBKS,RR,PBKS,"Sawai Mansingh Stadium, Jaipur",1.0,2.0,Praveen Kumar,4.0,PBKS,PBKS,3.0,5.0,0.0,0.0,0.0,18.0,"[1, 3, 18]",,0.0,7.0,2.2,,0,84
+3513,2019,DC v PBKS,DC,PBKS,"Arun Jaitley Stadium, Delhi",1.0,2.0,Chris Gayle,4.0,,PBKS,30.0,22.0,3.0,2.0,,,,,1.0,48.0,,,0,25
+15282,2023,CSK v RR,CSK,RR,"MA Chidambaram Stadium, Chepauk, Chennai",1.0,2.0,Ravichandran Ashwin,4.0,RR,RR,,,,,2.0,25.0,"[4, 6, 10, 16]",,1.0,56.0,4.0,,0,19
+7882,2015,SRH v DC,SRH,DC,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",1.0,2.0,Jean-Paul Duminy,4.0,DC,DC,21.0,19.0,0.0,3.0,2.0,16.0,"[15, 17]",1.0,1.0,94.0,2.0,0.0,0,21
+20979,2013,RCB v DC,RCB,DC,"M.Chinnaswamy Stadium, Bengaluru",2.0,1.0,Virat Kohli,4.0,,RCB,58.0,47.0,2.0,2.0,,,,,1.0,76.0,,,0,5
+2995,2009,PBKS v KKR,PBKS,KKR,"St George's Park, Port Elizabeth",1.0,2.0,Brad Hodge,4.0,KKR,KKR,73.0,60.0,3.0,5.0,1.0,13.0,"[10, 12]",,1.0,131.0,2.0,,0,93
+7262,2009,RCB v DC,RCB,DC,"The Wanderers Stadium, Johannesburg",2.0,1.0,Jacques Kallis,4.0,RCB,RCB,0.0,1.0,0.0,0.0,2.0,18.0,"[4, 6, 8, 10]",,1.0,70.0,4.0,,1,76
+2516,2023,LSG v CSK,LSG,CSK,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2.0,1.0,Ayush Badoni,4.0,,LSG,4.0,11.0,0.0,0.0,,,,,0.0,2.0,,,0,35
+20550,2021,KKR v RCB,KKR,RCB,"Sheikh Zayed Stadium, Abu Dhabi",2.0,1.0,Varun Chakravarthy,4.0,KKR,,,,,,0.0,34.0,"[2, 7, 10, 12]",,0.0,4.0,4.0,,0,62
+19283,2018,KKR v CSK,KKR,CSK,"Eden Gardens, Kolkata",2.0,1.0,Sunil Narine,4.0,KKR,KKR,27.0,19.0,1.0,3.0,0.0,38.0,"[2, 5, 15, 17]",,1.0,38.0,4.0,,0,56
+5433,2014,DC v CSK,DC,CSK,"Arun Jaitley Stadium, Delhi",2.0,1.0,Dwayne Smith,4.0,CSK,CSK,16.0,11.0,1.0,2.0,,,,,1.0,26.0,,,0,10
+14229,2022,KKR v LSG,KKR,LSG,"Dr DY Patil Sports Academy, Navi Mumbai",1.0,2.0,Quinton de Kock,4.0,,LSG,7.0,8.0,0.0,1.0,,,,,0.0,12.0,,,0,19
+18077,2018,SRH v RR,SRH,RR,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2.0,1.0,Shikhar Dhawan,4.0,,SRH,11.0,13.0,0.0,1.0,,,,1.0,0.0,24.0,,0.0,0,99
+11434,2017,MI v RPS,MI,RPS,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1.0,2.0,Mitchell Johnson,4.0,MI,MI,,,,,2.0,28.0,"[1, 3, 12, 17]",1.0,1.0,64.0,4.0,0.0,0,20
+10957,2020,DC v PBKS,DC,PBKS,Dubai International Cricket Stadium,1.0,2.0,Marcus Stoinis,4.0,DC,DC,0.0,1.0,0.0,0.0,,,,,0.0,2.0,,,1,53
+5167,2011,PWI v CSK,PWI,CSK,"Dr DY Patil Sports Academy, Mumbai",2.0,1.0,Doug Bollinger,4.0,CSK,,,,,,2.0,20.0,"[2, 13, 18, 20]",,1.0,58.0,4.0,,0,34
+19676,2020,MI v RCB,MI,RCB,"Sheikh Zayed Stadium, Abu Dhabi",2.0,1.0,Suryakumar Yadav,4.0,,MI,36.0,29.0,0.0,5.0,,,,,1.0,49.0,,,0,86
+7126,2011,Kochi v DC,Kochi,SRH,"Nehru Stadium, Kochi",1.0,2.0,Ishant Sharma,4.0,SRH,,1.0,2.0,0.0,0.0,1.0,39.0,"[4, 6, 16, 18]",,1.0,30.0,4.0,,0,2
+7307,2012,DC v KKR,DC,KKR,"Arun Jaitley Stadium, Delhi",2.0,1.0,Jacques Kallis,4.0,KKR,KKR,1.0,4.0,0.0,0.0,1.0,16.0,"[8, 10]",,1.0,30.0,2.0,,0,99
+16109,2012,KKR v MI,KKR,MI,"Eden Gardens, Kolkata",1.0,2.0,Rohit Sharma,4.0,,MI,0.0,3.0,0.0,0.0,0.0,16.0,[18],,0.0,2.0,1.0,,1,72
+17409,2018,RR v DC,RR,DC,"Sawai Mansingh Stadium, Jaipur",2.0,1.0,Shahbaz Nadeem,4.0,DC,,2.0,6.0,0.0,0.0,1.0,12.0,"[10, 14]",1.0,1.0,41.0,2.0,0.0,0,77
+13834,2018,SRH v KKR,SRH,KKR,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2.0,1.0,Prasidh Krishna,4.0,KKR,,,,,,2.0,35.0,"[2, 9, 17, 19]",,1.0,62.0,4.0,,0,14
+1669,2010,SRH v DC,SRH,DC,"Barabati Stadium, Cuttack",1.0,2.0,Andrew Symonds,4.0,SRH,SRH,53.0,38.0,3.0,3.0,1.0,22.0,"[6, 8, 13, 16]",2.0,1.0,129.0,4.0,0.0,0,67
+19652,2018,PBKS v MI,PBKS,MI,"Holkar Cricket Stadium, Indore",2.0,1.0,Suryakumar Yadav,4.0,,MI,9.0,9.0,0.0,2.0,,,,1.0,0.0,23.0,,0.0,0,87
+12744,2015,DC v PBKS,DC,PBKS,"Arun Jaitley Stadium, Delhi",2.0,1.0,Nathan Coulter-Nile,4.0,DC,,4.0,8.0,0.0,1.0,0.0,30.0,"[1, 3, 5, 11]",,0.0,9.0,3.3,,0,64
+116,2017,PBKS v RCB,PBKS,RCB,"Holkar Cricket Stadium, Indore",1.0,2.0,AB de Villiers,4.0,,RCB,5.0,6.0,0.0,0.0,,,,,0.0,9.0,,,0,82
+2262,2016,SRH v RPS,SRH,RPS,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2.0,1.0,Ashok Dinda,4.0,RPS,,,,,,0.0,39.0,"[2, 4, 11]",,0.0,-2.0,3.0,,0,53
+14324,2023,KKR v GT,KKR,GT,"Eden Gardens, Kolkata",1.0,2.0,Rahmanullah Gurbaz,4.0,,KKR,8.0,12.0,0.0,0.0,,,,2.0,0.0,26.0,,0.0,0,66
+95,2015,MI v RCB,MI,RCB,"Wankhede Stadium, Mumbai",1.0,2.0,AB de Villiers,4.0,,RCB,47.0,24.0,4.0,3.0,,,,,1.0,72.0,,,0,75
+3420,2011,MI v RCB,MI,RCB,"MA Chidambaram Stadium, Chepauk, Chennai",1.0,2.0,Chris Gayle,4.0,RCB,RCB,8.0,9.0,1.0,0.0,0.0,19.0,"[12, 14, 16, 18]",,0.0,20.0,4.0,,0,82
+11310,2011,CSK v RCB,CSK,RCB,"MA Chidambaram Stadium, Chepauk, Chennai",1.0,2.0,Michael Hussey,4.0,,CSK,15.0,18.0,0.0,2.0,,,,,0.0,21.0,,,0,64
+15318,2011,PWI v Kochi,PWI,Kochi,"Dr DY Patil Sports Academy, Mumbai",1.0,2.0,Ravindra Jadeja,4.0,Kochi,Kochi,23.0,16.0,1.0,2.0,1.0,28.0,"[5, 10, 12, 16]",,1.0,60.0,4.0,,0,80
+14122,2020,CSK v SRH,CSK,SRH,Dubai International Cricket Stadium,1.0,2.0,Priyam Garg,4.0,,SRH,4.0,7.0,0.0,0.0,,,,2.0,0.0,24.0,,0.0,0,42
+4604,2022,GT v LSG,GT,LSG,"Wankhede Stadium, Mumbai",1.0,2.0,Deepak Hooda,4.0,LSG,LSG,0.0,2.0,0.0,0.0,0.0,37.0,"[5, 16]",,0.0,-4.0,2.0,,1,93
+15641,2018,DC v RR,DC,RR,"Arun Jaitley Stadium, Delhi",1.0,2.0,Rishabh Pant,4.0,,DC,79.0,45.0,4.0,7.0,,,,0.0,1.0,118.0,,1.0,0,61
+6725,2023,SRH v RCB,SRH,RCB,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1.0,2.0,Heinrich Klaasen,4.0,,SRH,64.0,44.0,3.0,4.0,,,,1.0,1.0,102.0,,1.0,0,34
+16386,2021,DC v CSK,DC,CSK,Dubai International Cricket Stadium,2.0,1.0,Ruturaj Gaikwad,4.0,,CSK,38.0,26.0,1.0,4.0,,,,,1.0,54.0,,,0,31
+14058,2019,DC v KKR,DC,KKR,"Arun Jaitley Stadium, Delhi",2.0,1.0,Prithvi Shaw,4.0,,DC,24.0,16.0,0.0,5.0,,,,,1.0,35.0,,,0,16
+18618,2023,GT v MI,GT,MI,"Narendra Modi Stadium, Motera, Ahmedabad",1.0,2.0,Shubman Gill,4.0,,GT,42.0,38.0,1.0,4.0,,,,1.0,1.0,64.0,,0.0,0,74
+14209,2021,MI v RR,MI,RR,"Arun Jaitley Stadium, Delhi",2.0,1.0,Quinton de Kock,4.0,,MI,3.0,5.0,0.0,0.0,,,,,0.0,7.0,,,0,42
+11653,2022,RCB v CSK,RCB,CSK,"Maharashtra Cricket Association Stadium, Pune",2.0,1.0,Moeen Ali,4.0,CSK,CSK,1.0,3.0,0.0,0.0,0.0,17.0,"[9, 11]",2.0,0.0,21.0,2.0,0.0,0,12
+5602,2012,CSK v RR,CSK,RR,"MA Chidambaram Stadium, Chepauk, Chennai",2.0,1.0,Faf du Plessis,4.0,,CSK,58.0,48.0,2.0,4.0,,,,1.0,1.0,86.0,,0.0,0,22
+5249,2009,PBKS v MI,PBKS,MI,"SuperSport Park, Centurion",2.0,1.0,Dwayne Bravo,4.0,MI,MI,,,,,1.0,27.0,"[4, 6, 17, 19]",,1.0,31.0,4.0,,0,34
+21678,2008,RR v DC,RR,SRH,"Sawai Mansingh Stadium, Jaipur",2.0,1.0,Yusuf Pathan,4.0,RR,RR,1.0,3.0,0.0,0.0,,,,1.0,0.0,13.0,,0.0,0,7
+7993,2019,PBKS v RR,PBKS,RR,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2.0,1.0,Jofra Archer,4.0,RR,RR,,,,,3.0,39.0,"[5, 11, 17, 19]",,1.0,83.0,4.0,,0,91
+13398,2011,PBKS v DC,PBKS,DC,"Himachal Pradesh Cricket Association Stadium, Dharamsala",1.0,2.0,Paul Valthaty,4.0,PBKS,PBKS,17.0,10.0,2.0,1.0,,,,,1.0,30.0,,,0,46
+17637,2013,RR v CSK,RR,CSK,"Sawai Mansingh Stadium, Jaipur",2.0,1.0,Shane Watson,4.0,RR,RR,31.0,25.0,1.0,3.0,1.0,19.0,"[8, 12, 15, 18]",,1.0,83.0,4.0,,0,40
+11868,2020,KKR v RCB,KKR,RCB,"Sheikh Zayed Stadium, Abu Dhabi",2.0,1.0,Mohammed Siraj,4.0,RCB,,,,,,0.0,38.0,"[6, 8, 10, 17]",,0.0,4.0,4.0,,0,37
+9675,2012,MI v DC,MI,SRH,"Wankhede Stadium, Mumbai",2.0,1.0,Lasith Malinga,4.0,MI,,11.0,13.0,0.0,1.0,2.0,31.0,"[1, 3, 13, 19]",,1.0,82.0,4.0,,0,44
+8148,2019,RR v PBKS,RR,PBKS,"Sawai Mansingh Stadium, Jaipur",2.0,1.0,Jos Buttler,4.0,,RR,39.0,22.0,2.0,5.0,,,,,1.0,62.0,,,0,13
+21118,2022,RCB v GT,RCB,GT,"Wankhede Stadium, Mumbai",2.0,1.0,Virat Kohli,4.0,,RCB,20.0,14.0,1.0,2.0,,,,,0.0,30.0,,,0,92
+16400,2022,CSK v GT,CSK,GT,"Wankhede Stadium, Mumbai",1.0,2.0,Ruturaj Gaikwad,4.0,,CSK,7.0,6.0,0.0,1.0,,,,,0.0,12.0,,,0,11
+13037,2023,CSK v KKR,CSK,KKR,"MA Chidambaram Stadium, Chepauk, Chennai",2.0,1.0,Nitish Rana,4.0,,KKR,22.0,17.0,0.0,2.0,0.0,26.0,[1],,1.0,28.0,1.0,,0,70
+1463,2018,SRH v DC,SRH,DC,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1.0,2.0,Amit Mishra,4.0,DC,,,,,,1.0,12.0,"[5, 7]",,0.0,31.0,2.0,,0,94
+19501,2014,CSK v PBKS,CSK,PBKS,"Wankhede Stadium, Mumbai",2.0,1.0,Suresh Raina,4.0,,CSK,54.0,33.0,2.0,4.0,0.0,13.0,[12],1.0,1.0,86.0,1.0,0.0,0,64
+13076,2019,RCB v RR,RCB,RR,"M.Chinnaswamy Stadium, Bengaluru",2.0,1.0,Oshane Thomas,4.0,RR,,,,,,2.0,28.0,"[2, 6, 13, 18]",,1.0,56.0,4.0,,0,19
+15917,2015,CSK v KKR,CSK,KKR,"MA Chidambaram Stadium, Chepauk, Chennai",2.0,1.0,Robin Uthappa,4.0,,KKR,32.0,31.0,1.0,4.0,,,,,1.0,46.0,,,0,87
+562,2011,DC v PBKS,SRH,PBKS,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2.0,1.0,Adam Gilchrist,4.0,,PBKS,19.0,15.0,0.0,2.0,,,,0.0,1.0,37.0,,1.0,0,26
+21575,2022,PBKS v RR,PBKS,RR,"Wankhede Stadium, Mumbai",2.0,1.0,Yashasvi Jaiswal,4.0,,RR,4.0,6.0,0.0,0.0,0.0,6.0,[20],,0.0,8.0,0.1,,0,88
+18536,2018,KKR v CSK,KKR,CSK,"Eden Gardens, Kolkata",2.0,1.0,Shubman Gill,4.0,,KKR,5.0,2.0,0.0,1.0,,,,1.0,0.0,18.0,,0.0,0,43
+4689,2022,SRH v CSK,SRH,CSK,"Maharashtra Cricket Association Stadium, Pune",1.0,2.0,Devon Conway,4.0,,CSK,3.0,8.0,0.0,0.0,,,,,0.0,7.0,,,0,91
+4258,2012,PBKS v DC,PBKS,DC,"Himachal Pradesh Cricket Association Stadium, Dharamsala",2.0,1.0,David Warner,4.0,,DC,15.0,9.0,1.0,2.0,,,,,0.0,23.0,,,0,86
+4262,2013,DC v RR,DC,RR,"Arun Jaitley Stadium, Delhi",2.0,1.0,David Warner,4.0,,DC,21.0,19.0,0.0,4.0,,,,,0.0,29.0,,,0,22
+11227,2021,DC v PBKS,DC,PBKS,"Wankhede Stadium, Mumbai",1.0,2.0,Mayank Agarwal,4.0,,PBKS,0.0,2.0,0.0,0.0,,,,,0.0,2.0,,,1,71
+9281,2020,MI v DC,MI,DC,"Sheikh Zayed Stadium, Abu Dhabi",2.0,1.0,Krunal Pandya,4.0,MI,MI,,,,,0.0,23.0,"[5, 7, 9, 15]",,0.0,8.0,4.0,,0,81
+6327,2015,MI v DC,MI,DC,"Wankhede Stadium, Mumbai",2.0,1.0,Harbhajan Singh,4.0,MI,MI,,,,,1.0,27.0,"[8, 10, 12, 14]",,1.0,31.0,4.0,,0,93
+13371,2021,DC v KKR,DC,KKR,"Narendra Modi Stadium, Motera, Ahmedabad",1.0,2.0,Pat Cummins,4.0,KKR,KKR,,,,,2.0,31.0,"[2, 6, 19]",,1.0,52.0,3.0,,0,79
+3426,2012,PBKS v RCB,PBKS,RCB,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2.0,1.0,Chris Gayle,4.0,,RCB,81.0,48.0,8.0,4.0,,,,,1.0,117.0,,,0,69
+6334,2016,MI v RPS,MI,RPS,"Wankhede Stadium, Mumbai",1.0,2.0,Harbhajan Singh,4.0,MI,MI,6.0,3.0,1.0,0.0,2.0,34.0,"[8, 10, 12, 14]",,1.0,70.0,4.0,,0,61
+8075,2019,DC v SRH,DC,SRH,"Arun Jaitley Stadium, Delhi",2.0,1.0,Jonny Bairstow,4.0,,SRH,114.0,56.0,7.0,12.0,,,,0.0,1.0,178.0,,1.0,0,87
+9808,2014,MI v CSK,MI,CSK,"Brabourne Stadium, Mumbai",1.0,2.0,Lendl Simmons,4.0,,MI,12.0,8.0,0.0,3.0,,,,1.0,0.0,27.0,,0.0,0,16
+17743,2017,MI v RPS,MI,RPS,"Wankhede Stadium, Mumbai",1.0,2.0,Shardul Thakur,4.0,RPS,,,,,,3.0,19.0,"[2, 4, 6, 8]",,1.0,89.0,4.0,,0,32
+4347,2019,SRH v PBKS,SRH,PBKS,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1.0,2.0,David Warner,4.0,,SRH,37.0,32.0,0.0,0.0,,,,1.0,1.0,53.0,,0.0,0,33
+11011,2008,MI v RCB,MI,RCB,"Wankhede Stadium, Mumbai",2.0,1.0,Mark Boucher,4.0,,RCB,7.0,9.0,0.0,1.0,,,,,0.0,12.0,,,0,49
+12938,2016,GL v MI,GL,MI,"Green Park, Kanpur",1.0,2.0,Nitish Rana,4.0,,MI,,,,,0.0,3.0,[11],,0.0,4.0,1.0,,0,51
+1223,2015,MI v RR,MI,RR,"Wankhede Stadium, Mumbai",1.0,2.0,Ambati Rayudu,4.0,,MI,7.0,7.0,0.0,1.0,,,,2.0,0.0,28.0,,0.0,0,13
+13280,2019,RR v RCB,RR,RCB,"Sawai Mansingh Stadium, Jaipur",1.0,2.0,Parthiv Patel,4.0,,RCB,11.0,8.0,0.0,2.0,,,,0.0,1.0,23.0,,1.0,0,59
+3909,2021,RCB v SRH,RCB,SRH,"Sheikh Zayed Stadium, Abu Dhabi",2.0,1.0,Dan Christian,4.0,RCB,RCB,0.0,1.0,0.0,0.0,0.0,11.0,[8],1.0,0.0,10.0,1.0,0.0,1,91
+1573,2018,RCB v KKR,RCB,KKR,"M.Chinnaswamy Stadium, Bengaluru",2.0,1.0,Andre Russell,4.0,KKR,KKR,44.0,30.0,4.0,3.0,1.0,28.0,"[8, 11, 15]",,1.0,90.0,3.0,,0,13
+21114,2022,GT v RCB,GT,RCB,"Brabourne Stadium, Mumbai",1.0,2.0,Virat Kohli,4.0,,RCB,9.0,10.0,0.0,2.0,,,,1.0,0.0,23.0,,0.0,0,82
+21457,2016,MI v PBKS,MI,PBKS,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",2.0,1.0,Wriddhiman Saha,4.0,,PBKS,16.0,13.0,0.0,1.0,,,,0.0,0.0,27.0,,1.0,0,61
+2341,2022,MI v LSG,MI,LSG,"Brabourne Stadium, Mumbai",1.0,2.0,Avesh Khan,4.0,LSG,,7.0,2.0,1.0,0.0,1.0,31.0,"[6, 8, 17, 19]",,1.0,46.0,4.0,,0,89
+15330,2011,CSK v Kochi,CSK,Kochi,"MA Chidambaram Stadium, Chepauk, Chennai",2.0,1.0,Ravindra Jadeja,4.0,Kochi,Kochi,,,,,0.0,5.0,[15],0.0,0.0,10.0,1.0,1.0,0,94
+9518,2023,LSG v DC,LSG,DC,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",1.0,2.0,Kyle Mayers,4.0,LSG,LSG,,,,,,,,,,,,,0,99
+3060,2015,KKR v CSK,KKR,CSK,"Eden Gardens, Kolkata",2.0,1.0,Brad Hogg,4.0,KKR,,,,,,0.0,31.0,"[7, 9, 12, 18]",,0.0,4.0,3.2,,0,80
+10646,2017,DC v KKR,DC,KKR,"Arun Jaitley Stadium, Delhi",2.0,1.0,Manish Pandey,4.0,,KKR,46.0,35.0,2.0,3.0,,,,,1.0,63.0,,,0,86
+884,2012,RR v PWI,RR,PWI,"Sawai Mansingh Stadium, Jaipur",1.0,2.0,Ajit  Chandila,4.0,RR,,,,,,0.0,29.0,"[1, 3, 11, 13]",,0.0,4.0,4.0,,0,89
+20351,2018,RCB v PBKS,RCB,PBKS,"M.Chinnaswamy Stadium, Bengaluru",2.0,1.0,Umesh Yadav,4.0,RCB,,,,,,2.0,27.0,"[6, 8, 10, 17]",,1.0,56.0,4.0,,0,2
+5668,2020,PBKS v CSK,PBKS,CSK,Dubai International Cricket Stadium,2.0,1.0,Faf du Plessis,4.0,,CSK,58.0,47.0,2.0,6.0,,,,2.0,1.0,96.0,,0.0,0,81
+14913,2018,MI v SRH,MI,SRH,"Wankhede Stadium, Mumbai",1.0,2.0,Rashid Khan,4.0,SRH,SRH,17.0,4.0,2.0,1.0,1.0,49.0,"[8, 12, 16, 18]",,1.0,45.0,4.0,,0,67
+6781,2014,MI v DC,MI,DC,"Wankhede Stadium, Mumbai",2.0,1.0,Imran Tahir,4.0,DC,,,,,,3.0,22.0,"[7, 9, 17, 19]",,1.0,95.0,4.0,,0,63
+11176,2015,PBKS v DC,PBKS,DC,"Maharashtra Cricket Association Stadium, Pune",2.0,1.0,Mayank Agarwal,4.0,,DC,37.0,21.0,1.0,6.0,,,,1.0,1.0,67.0,,0.0,0,59
+11666,2023,LSG v CSK,LSG,CSK,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",1.0,2.0,Moeen Ali,4.0,CSK,,10.0,6.0,0.0,2.0,0.0,10.0,[8],,0.0,16.0,1.0,,0,99
+4279,2014,SRH v DC,SRH,DC,Dubai International Cricket Stadium,1.0,2.0,David Warner,4.0,,SRH,8.0,12.0,0.0,1.0,,,,2.0,0.0,27.0,,0.0,0,15
+21552,2023,PBKS v LSG,PBKS,LSG,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",1.0,2.0,Yash Thakur,4.0,LSG,,,,,,1.0,23.0,"[6, 12, 18]",,0.0,29.0,3.0,,0,55
+17602,2010,CSK v RR,CSK,RR,"MA Chidambaram Stadium, Chepauk, Chennai",2.0,1.0,Shane Watson,4.0,RR,RR,28.0,19.0,0.0,3.0,1.0,29.0,"[2, 4, 17, 19]",,1.0,62.0,4.0,,0,55
+21028,2016,RCB v RPS,RCB,RPS,"M.Chinnaswamy Stadium, Bengaluru",2.0,1.0,Virat Kohli,4.0,,RCB,52.0,44.0,0.0,4.0,,,,1.0,1.0,76.0,,0.0,0,61
+20033,2021,KKR v SRH,KKR,SRH,Dubai International Cricket Stadium,2.0,1.0,Tim Southee,4.0,KKR,,,,,,0.0,40.0,"[1, 3, 15, 18]",,0.0,2.0,4.0,,0,58
+13035,2023,KKR v PBKS,KKR,PBKS,"Eden Gardens, Kolkata",2.0,1.0,Nitish Rana,4.0,KKR,KKR,42.0,31.0,3.0,3.0,,,,,1.0,61.0,,,0,84
+20689,2008,CSK v DC,CSK,DC,"MA Chidambaram Stadium, Chepauk, Chennai",1.0,2.0,Vidyut Sivaramakrishnan,4.0,,CSK,,,,,,,,,,,,,0,87
+2099,2009,CSK v DC,CSK,DC,"The Wanderers Stadium, Johannesburg",2.0,1.0,Ashish Nehra,4.0,DC,DC,,,,,2.0,30.0,"[2, 16, 18, 20]",,1.0,62.0,4.0,,0,16
+4337,2019,SRH v RR,SRH,RR,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2.0,1.0,David Warner,4.0,,SRH,85.0,53.0,3.0,9.0,,,,,1.0,116.0,,,0,76
+1210,2014,SRH v MI,SRH,MI,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2.0,1.0,Ambati Rayudu,4.0,,MI,59.0,43.0,4.0,2.0,,,,,1.0,83.0,,,0,37
+8364,2022,DC v LSG,DC,LSG,"Wankhede Stadium, Mumbai",1.0,2.0,KL Rahul,4.0,,LSG,6.0,11.0,0.0,1.0,,,,2.0,0.0,23.0,,0.0,0,38
+5830,2012,RCB v KKR,RCB,KKR,"M.Chinnaswamy Stadium, Bengaluru",1.0,2.0,Gautam Gambhir,4.0,,KKR,0.0,1.0,0.0,0.0,,,,0.0,0.0,14.0,,1.0,1,43
+18422,2015,SRH v DC,SRH,DC,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",1.0,2.0,Shreyas Iyer,4.0,,DC,6.0,5.0,0.0,1.0,,,,1.0,0.0,19.0,,0.0,0,92
+7691,2021,MI v KKR,MI,KKR,"Sheikh Zayed Stadium, Abu Dhabi",1.0,2.0,Jasprit Bumrah,4.0,MI,,,,,,2.0,14.0,"[3, 6, 16, 18]",,1.0,68.0,4.0,,0,42
+6053,2021,RCB v KKR,RCB,KKR,"MA Chidambaram Stadium, Chepauk, Chennai",1.0,2.0,Glenn Maxwell,4.0,RCB,RCB,59.0,41.0,3.0,5.0,,,,1.0,1.0,92.0,,0.0,0,44
+11638,2021,MI v CSK,MI,CSK,"Arun Jaitley Stadium, Delhi",1.0,2.0,Moeen Ali,4.0,CSK,CSK,15.0,8.0,0.0,3.0,0.0,16.0,"[8, 10]",,1.0,22.0,2.0,,0,4
+3432,2012,PWI v RCB,PWI,RCB,"Maharashtra Cricket Association Stadium, Pune",1.0,2.0,Chris Gayle,4.0,,RCB,82.0,59.0,6.0,5.0,,,,,1.0,113.0,,,0,64
+17951,2008,DC v RR,DC,RR,"Arun Jaitley Stadium, Delhi",2.0,1.0,Shikhar Dhawan,4.0,,DC,,,,,,,,,,,,,0,60
+1679,2010,DC v SRH,DC,SRH,"Arun Jaitley Stadium, Delhi",1.0,2.0,Andrew Symonds,4.0,SRH,SRH,4.0,6.0,0.0,0.0,0.0,16.0,"[7, 10]",1.0,0.0,16.0,2.0,0.0,0,58
+21883,2011,PWI v CSK,PWI,CSK,"Dr DY Patil Sports Academy, Mumbai",1.0,2.0,Yuvraj Singh,4.0,PWI,PWI,34.0,43.0,0.0,2.0,0.0,14.0,"[11, 13]",,1.0,46.0,2.0,,0,51
+17539,2008,RR v DC,RR,SRH,"Sawai Mansingh Stadium, Jaipur",2.0,1.0,Shane Warne,4.0,RR,,7.0,7.0,0.0,1.0,1.0,19.0,"[11, 15]",,1.0,45.0,2.0,,0,97
+4344,2019,SRH v KKR,SRH,KKR,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2.0,1.0,David Warner,4.0,,SRH,50.0,25.0,0.0,10.0,,,,,1.0,78.0,,,0,54
+18121,2020,DC v RR,DC,RR,Dubai International Cricket Stadium,1.0,2.0,Shikhar Dhawan,4.0,,DC,35.0,27.0,1.0,3.0,,,,,1.0,48.0,,,0,52
+15906,2014,KKR v RCB,KKR,RCB,"Eden Gardens, Kolkata",1.0,2.0,Robin Uthappa,4.0,,KKR,67.0,39.0,1.0,10.0,,,,,1.0,97.0,,,0,36
+1672,2010,KKR v DC,KKR,SRH,"Eden Gardens, Kolkata",2.0,1.0,Andrew Symonds,4.0,SRH,SRH,1.0,6.0,0.0,0.0,0.0,40.0,"[7, 12, 16, 18]",1.0,0.0,11.0,4.0,0.0,0,73
+7734,2010,KKR v RR,KKR,RR,"Eden Gardens, Kolkata",2.0,1.0,Jaydev Unadkat,4.0,KKR,,,,,,0.0,32.0,"[2, 4, 19]",,0.0,-2.0,2.2,,0,22
+2826,2015,MI v SRH,MI,SRH,"Wankhede Stadium, Mumbai",2.0,1.0,Bhuvneshwar Kumar,4.0,SRH,SRH,,,,,1.0,24.0,"[2, 10, 12]",,1.0,29.0,3.0,,0,20
+19432,2010,PBKS v CSK,PBKS,CSK,"Himachal Pradesh Cricket Association Stadium, Dharamsala",2.0,1.0,Suresh Raina,4.0,CSK,CSK,15.0,19.0,0.0,2.0,0.0,15.0,"[12, 15, 17]",,0.0,25.0,3.0,,0,3
+13870,2022,DC v RR,DC,RR,"Wankhede Stadium, Mumbai",1.0,2.0,Prasidh Krishna,4.0,RR,,,,,,1.0,43.0,"[2, 5, 9, 19]",1.0,1.0,35.0,4.0,0.0,0,30
+7060,2022,GT v MI,GT,MI,"Brabourne Stadium, Mumbai",1.0,2.0,Ishan Kishan,4.0,,MI,26.0,18.0,1.0,4.0,,,,1.0,1.0,46.0,,0.0,0,34
+1560,2016,DC v KKR,DC,KKR,"Arun Jaitley Stadium, Delhi",2.0,1.0,Andre Russell,4.0,KKR,KKR,22.0,16.0,0.0,3.0,0.0,28.0,"[10, 12, 14]",,1.0,31.0,3.0,,0,31
+6747,2009,RCB v DC,RCB,SRH,"SuperSport Park, Centurion",2.0,1.0,Herschelle Gibbs,4.0,,SRH,26.0,37.0,0.0,3.0,,,,1.0,1.0,47.0,,1.0,0,87
+14182,2019,RR v MI,RR,MI,"Sawai Mansingh Stadium, Jaipur",1.0,2.0,Quinton de Kock,4.0,,MI,35.0,27.0,2.0,2.0,,,,,1.0,49.0,,,0,55
+10035,2011,CSK v DC,CSK,DC,"MA Chidambaram Stadium, Chepauk, Chennai",1.0,2.0,MS Dhoni,4.0,,CSK,41.0,19.0,3.0,3.0,,,,2.0,1.0,80.0,,0.0,0,29
+16051,2009,DC v KKR,SRH,KKR,"Newlands, Cape Town",2.0,1.0,Rohit Sharma,4.0,,SRH,57.0,42.0,3.0,5.0,,,,,1.0,82.0,,,0,51
+12042,2022,PBKS v LSG,PBKS,LSG,"Maharashtra Cricket Association Stadium, Pune",1.0,2.0,Mohsin Khan,4.0,LSG,LSG,,,,,1.0,27.0,"[1, 9, 15, 17]",,1.0,31.0,4.0,,0,85
+10602,2013,KKR v PWI,KKR,PWI,"JSCA International Stadium Complex, Ranchi",1.0,2.0,Manish Pandey,4.0,,PWI,29.0,29.0,1.0,1.0,,,,2.0,1.0,52.0,,0.0,0,89
+11202,2019,KKR v PBKS,KKR,PBKS,"Eden Gardens, Kolkata",2.0,1.0,Mayank Agarwal,4.0,,PBKS,22.0,24.0,2.0,1.0,,,,,0.0,31.0,,,0,44
+9194,2018,KKR v RR,KKR,RR,"Eden Gardens, Kolkata",2.0,1.0,Krishnappa Gowtham,4.0,RR,RR,14.0,5.0,2.0,0.0,1.0,6.0,"[1, 3]",2.0,1.0,77.0,2.0,0.0,0,78
+643,2013,MI v RR,MI,RR,"Wankhede Stadium, Mumbai",1.0,2.0,Aditya Tare,4.0,,MI,1.0,3.0,0.0,0.0,,,,,0.0,5.0,,,0,77
+2684,2017,SRH v RPS,SRH,RPS,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1.0,2.0,Ben Stokes,4.0,RPS,RPS,14.0,15.0,0.0,1.0,1.0,24.0,"[2, 5, 14, 20]",,1.0,46.0,4.0,,0,73
+833,2018,RR v SRH,RR,SRH,"Sawai Mansingh Stadium, Jaipur",2.0,1.0,Ajinkya Rahane,4.0,,RR,14.0,17.0,0.0,1.0,,,,0.0,1.0,31.0,,1.0,0,48
+14179,2019,MI v RR,MI,RR,"Wankhede Stadium, Mumbai",1.0,2.0,Quinton de Kock,4.0,,MI,24.0,23.0,0.0,2.0,,,,2.0,1.0,46.0,,0.0,0,72
+6806,2017,RPS v GL,RPS,GL,"Maharashtra Cricket Association Stadium, Pune",2.0,1.0,Imran Tahir,4.0,RPS,,,,,,3.0,18.0,"[7, 13, 15, 17]",,1.0,97.0,4.0,,0,38
+10954,2019,RCB v PBKS,RCB,PBKS,"M.Chinnaswamy Stadium, Bengaluru",1.0,2.0,Marcus Stoinis,4.0,RCB,RCB,14.0,13.0,1.0,0.0,0.0,20.0,"[9, 11, 15]",1.0,0.0,30.0,3.0,0.0,0,91
+20336,2017,KKR v PBKS,KKR,PBKS,"Eden Gardens, Kolkata",2.0,1.0,Umesh Yadav,4.0,KKR,,,,,,0.0,18.0,"[10, 12]",,0.0,4.0,2.0,,0,80
+5473,2017,GL v RPS,GL,RPS,"Saurashtra Cricket Association Stadium, Rajkot",2.0,1.0,Dwayne Smith,4.0,GL,GL,37.0,27.0,1.0,4.0,,,,,1.0,53.0,,,0,50
+8834,2017,RCB v DC,RCB,DC,"M.Chinnaswamy Stadium, Bengaluru",1.0,2.0,Kedar Jadhav,4.0,,RCB,31.0,16.0,1.0,4.0,,,,,1.0,51.0,,,0,90
+16961,2013,RR v PBKS,RR,PBKS,"Sawai Mansingh Stadium, Jaipur",2.0,1.0,Sanju Samson,4.0,,RR,,,,,,,,,,,,,0,44
+5160,2010,CSK v DC,CSK,DC,"MA Chidambaram Stadium, Chepauk, Chennai",1.0,2.0,Doug Bollinger,4.0,CSK,CSK,,,,,2.0,15.0,"[2, 4, 6, 19]",,1.0,80.0,4.0,,0,56
+1707,2018,PBKS v KKR,PBKS,KKR,"Holkar Cricket Stadium, Indore",2.0,1.0,Andrew Tye,4.0,PBKS,PBKS,1.0,1.0,0.0,0.0,4.0,34.0,"[4, 6, 18, 20]",0.0,1.0,119.0,4.0,1.0,0,45
+6322,2015,RCB v MI,RCB,MI,"M.Chinnaswamy Stadium, Bengaluru",1.0,2.0,Harbhajan Singh,4.0,MI,MI,24.0,21.0,1.0,2.0,2.0,44.0,"[6, 8, 10, 12]",,1.0,80.0,4.0,,0,90
+20854,2012,MI v RCB,MI,RCB,"Wankhede Stadium, Mumbai",2.0,1.0,Vinay Kumar,4.0,RCB,,,,,,0.0,32.0,"[2, 4, 6, 20]",0.0,0.0,10.0,3.5,1.0,0,65
+19646,2018,MI v DC,MI,DC,"Wankhede Stadium, Mumbai",1.0,2.0,Suryakumar Yadav,4.0,,MI,28.0,31.0,1.0,2.0,,,,,0.0,36.0,,,0,59
+17992,2011,PBKS v DC,PBKS,SRH,"Himachal Pradesh Cricket Association Stadium, Dharamsala",1.0,2.0,Shikhar Dhawan,4.0,,SRH,28.0,25.0,0.0,4.0,,,,,1.0,36.0,,,0,89
+20003,2015,RCB v RR,RCB,RR,"M.Chinnaswamy Stadium, Bengaluru",1.0,2.0,Tim Southee,4.0,RR,,,,,,0.0,30.0,"[1, 5, 14, 20]",,0.0,4.0,4.0,,0,90
+11559,2014,RCB v DC,RCB,DC,"M.Chinnaswamy Stadium, Bengaluru",1.0,2.0,Mitchell Starc,4.0,RCB,,,,,,0.0,33.0,"[2, 13, 17]",,0.0,2.0,3.0,,0,99
+18030,2014,CSK v SRH,CSK,SRH,"JSCA International Stadium Complex, Ranchi",2.0,1.0,Shikhar Dhawan,4.0,,SRH,50.0,39.0,1.0,7.0,,,,,1.0,71.0,,,0,91
+20048,2009,DC v MI,SRH,MI,"SuperSport Park, Centurion",1.0,2.0,Tirumalasetti Suman,4.0,SRH,SRH,17.0,17.0,0.0,2.0,1.0,29.0,"[11, 13, 15]",,1.0,48.0,3.0,,0,9
+6829,2019,MI v CSK,MI,CSK,"MA Chidambaram Stadium, Chepauk, Chennai",1.0,2.0,Imran Tahir,4.0,CSK,,,,,,0.0,36.0,"[7, 12, 16, 18]",1.0,0.0,12.0,4.0,0.0,0,40
+2727,2022,PBKS v RCB,PBKS,RCB,"Dr DY Patil Sports Academy, Navi Mumbai",2.0,1.0,Bhanuka Rajapaksa,4.0,,PBKS,,,,,,,,,,,,,0,49
+5101,2009,DC v MI,DC,MI,"SuperSport Park, Centurion",2.0,1.0,Dirk Nannes,4.0,DC,,,,,,1.0,33.0,"[2, 4, 18, 20]",1.0,1.0,37.0,4.0,0.0,0,49
+9183,2018,RR v KKR,RR,KKR,"Sawai Mansingh Stadium, Jaipur",1.0,2.0,Krishnappa Gowtham,4.0,RR,RR,,,,,1.0,36.0,"[1, 3, 5, 14]",,0.0,29.0,4.0,,0,62
+19391,2008,CSK v MI,CSK,MI,"MA Chidambaram Stadium, Chepauk, Chennai",1.0,2.0,Suresh Raina,4.0,,CSK,32.0,13.0,3.0,2.0,,,,,1.0,54.0,,,0,92
+108,2016,PBKS v RCB,PBKS,RCB,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",1.0,2.0,AB de Villiers,4.0,,RCB,1.0,3.0,0.0,0.0,,,,,0.0,5.0,,,0,86
+10971,2020,DC v MI,DC,MI,Dubai International Cricket Stadium,2.0,1.0,Marcus Stoinis,4.0,DC,DC,9.0,10.0,0.0,0.0,0.0,14.0,[10],,0.0,13.0,1.0,,0,68
+9051,2013,CSK v MI,CSK,MI,"Eden Gardens, Kolkata",1.0,2.0,Kieron Pollard,4.0,MI,MI,11.0,6.0,1.0,0.0,2.0,6.0,[16],,1.0,67.0,1.0,,0,37
+4928,2013,MI v KKR,MI,KKR,"Wankhede Stadium, Mumbai",1.0,2.0,Dinesh Karthik,4.0,,MI,23.0,23.0,1.0,2.0,,,,,0.0,31.0,,,0,28
+7227,2008,CSK v KKR,CSK,KKR,"MA Chidambaram Stadium, Chepauk, Chennai",2.0,1.0,Jacob Oram,4.0,CSK,,5.0,2.0,0.0,1.0,0.0,53.0,"[1, 3, 5, 18]",1.0,0.0,12.0,4.0,0.0,0,43
+21049,2018,RCB v RR,RCB,RR,"M.Chinnaswamy Stadium, Bengaluru",2.0,1.0,Virat Kohli,4.0,,RCB,21.0,16.0,0.0,4.0,,,,1.0,1.0,39.0,,0.0,0,3
+6914,2010,DC v PBKS,SRH,PBKS,"Barabati Stadium, Cuttack",2.0,1.0,Irfan Pathan,4.0,PBKS,PBKS,3.0,1.0,0.0,0.0,0.0,33.0,"[1, 3, 6]",1.0,0.0,13.0,3.0,0.0,0,32
+11095,2009,RCB v CSK,RCB,CSK,"St George's Park, Port Elizabeth",1.0,2.0,Matthew Hayden,4.0,,CSK,44.0,35.0,1.0,6.0,,,,2.0,1.0,76.0,,0.0,0,73
+15837,2010,RCB v CSK,RCB,CSK,"M.Chinnaswamy Stadium, Bengaluru",1.0,2.0,Robin Uthappa,4.0,,RCB,23.0,15.0,1.0,2.0,,,,,1.0,35.0,,,0,6
+7896,2016,DC v GL,DC,GL,"Arun Jaitley Stadium, Delhi",2.0,1.0,Jean-Paul Duminy,4.0,DC,DC,49.0,31.0,2.0,3.0,,,,,1.0,68.0,,,0,72
+21605,2008,MI v DC,MI,DC,"Dr DY Patil Sports Academy, Mumbai",2.0,1.0,Yo Mahesh,4.0,DC,DC,,,,,1.0,31.0,"[4, 6, 14, 16]",2.0,1.0,53.0,4.0,0.0,0,14
+21370,2023,RR v RCB,RR,RCB,"Sawai Mansingh Stadium, Jaipur",1.0,2.0,Wayne Parnell,4.0,RCB,,,,,,1.0,32.0,"[2, 5, 12]",,1.0,35.0,3.0,,0,79
+5553,2021,PBKS v KKR,PBKS,KKR,"Narendra Modi Stadium, Motera, Ahmedabad",2.0,1.0,Eoin Morgan,4.0,,KKR,0.0,0.0,0.0,0.0,,,,,0.0,2.0,,,1,68
+10676,2019,CSK v SRH,CSK,SRH,"MA Chidambaram Stadium, Chepauk, Chennai",1.0,2.0,Manish Pandey,4.0,,SRH,19.0,15.0,0.0,2.0,,,,,0.0,25.0,,,0,12
+6485,2022,KKR v GT,KKR,GT,"Dr DY Patil Sports Academy, Navi Mumbai",1.0,2.0,Hardik Pandya,4.0,,GT,87.0,52.0,4.0,8.0,1.0,18.0,"[10, 12, 18]",0.0,1.0,164.0,2.3,1.0,0,72
+6124,2008,RR v RCB,RR,RCB,"Sawai Mansingh Stadium, Jaipur",1.0,2.0,Graeme Smith,4.0,,RR,24.0,27.0,0.0,3.0,,,,,1.0,31.0,,,0,43
+949,2023,MI v SRH,MI,SRH,"Wankhede Stadium, Mumbai",2.0,1.0,Akash Madhwal,4.0,MI,,,,,,0.0,30.0,"[10, 14, 17, 20]",,0.0,4.0,4.0,,0,8
+13305,2012,PBKS v MI,PBKS,MI,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",1.0,2.0,Parvinder Awana,4.0,PBKS,,,,,,2.0,23.0,"[5, 10, 18, 20]",,1.0,58.0,4.0,,0,12
+10850,2013,PBKS v KKR,PBKS,KKR,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",1.0,2.0,Manpreet Gony,4.0,PBKS,PBKS,,,,,0.0,38.0,"[2, 4, 6, 14]",1.0,0.0,12.0,4.0,0.0,0,33
+1260,2018,DC v CSK,DC,CSK,"Arun Jaitley Stadium, Delhi",2.0,1.0,Ambati Rayudu,4.0,,CSK,100.0,62.0,7.0,7.0,,,,,1.0,145.0,,,0,54
+6024,2017,MI v PBKS,MI,PBKS,"Wankhede Stadium, Mumbai",1.0,2.0,Glenn Maxwell,4.0,PBKS,PBKS,44.0,25.0,4.0,1.0,,,,1.0,1.0,75.0,,0.0,0,81
+20348,2017,SRH v KKR,SRH,KKR,"M.Chinnaswamy Stadium, Bengaluru",2.0,1.0,Umesh Yadav,4.0,KKR,,4.0,4.0,0.0,0.0,0.0,40.0,"[4, 6, 14, 16]",,0.0,6.0,4.0,,0,67
+5363,2019,CSK v DC,CSK,DC,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",2.0,1.0,Dwayne Bravo,4.0,CSK,CSK,,,,,0.0,25.0,"[8, 10, 17]",,0.0,4.0,3.0,,0,62
+3494,2018,PBKS v CSK,PBKS,CSK,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",1.0,2.0,Chris Gayle,4.0,,PBKS,48.0,38.0,3.0,3.0,,,,,1.0,65.0,,,0,96
+10461,2013,PBKS v PWI,PBKS,PWI,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2.0,1.0,Mandeep Singh,4.0,,PBKS,10.0,11.0,0.0,1.0,,,,,0.0,15.0,,,0,96
+21858,2009,CSK v PBKS,CSK,PBKS,"SuperSport Park, Centurion",2.0,1.0,Yuvraj Singh,4.0,,PBKS,48.0,37.0,3.0,3.0,0.0,9.0,[8],,1.0,65.0,1.0,,0,35
+15084,2013,CSK v RCB,CSK,RCB,"MA Chidambaram Stadium, Chepauk, Chennai",1.0,2.0,Ravi Rampaul,4.0,RCB,RCB,,,,,,,,,,,,,0,76
+16363,2012,PWI v DC,PWI,SRH,"Maharashtra Cricket Association Stadium, Pune",1.0,2.0,Rusty Theron,4.0,SRH,,,,,,1.0,43.0,"[10, 12, 16, 19]",,0.0,27.0,4.0,,0,59
+8088,2020,DC v SRH,DC,SRH,"Sheikh Zayed Stadium, Abu Dhabi",1.0,2.0,Jonny Bairstow,4.0,,SRH,23.0,24.0,0.0,2.0,,,,1.0,0.0,37.0,,0.0,0,31
+14098,2021,DC v CSK,DC,CSK,Dubai International Cricket Stadium,1.0,2.0,Prithvi Shaw,4.0,,DC,6.0,7.0,0.0,1.0,,,,,0.0,11.0,,,0,73
+11492,2016,KKR v MI,KKR,MI,"Eden Gardens, Kolkata",2.0,1.0,Mitchell McClenaghan,4.0,MI,MI,2.0,2.0,0.0,0.0,0.0,27.0,"[1, 3, 5]",,0.0,6.0,3.0,,0,21
+2148,2015,CSK v RCB,CSK,RCB,"MA Chidambaram Stadium, Chepauk, Chennai",1.0,2.0,Ashish Nehra,4.0,CSK,CSK,,,,,1.0,31.0,"[2, 4, 6, 17]",,0.0,37.0,4.0,,0,82
+18598,2022,LSG v GT,LSG,GT,"Maharashtra Cricket Association Stadium, Pune",1.0,2.0,Shubman Gill,4.0,,GT,52.0,36.0,2.0,6.0,,,,,1.0,76.0,,,0,60
+6841,2011,KKR v DC,KKR,SRH,"Eden Gardens, Kolkata",1.0,2.0,Iqbal Abdulla,4.0,KKR,,3.0,3.0,0.0,0.0,1.0,26.0,"[1, 3, 13, 15]",,1.0,34.0,4.0,,0,20
+1066,2015,CSK v DC,CSK,DC,"MA Chidambaram Stadium, Chepauk, Chennai",2.0,1.0,Albie Morkel,4.0,DC,DC,1.0,1.0,0.0,0.0,0.0,20.0,"[1, 3]",,0.0,3.0,2.0,,0,99
+12909,2023,KKR v LSG,KKR,LSG,"Eden Gardens, Kolkata",1.0,2.0,Nicholas Pooran,4.0,,LSG,8.0,8.0,0.0,1.0,,,,1.0,0.0,21.0,,0.0,0,16
+15149,2013,KKR v CSK,KKR,CSK,"Eden Gardens, Kolkata",2.0,1.0,Ravichandran Ashwin,4.0,CSK,CSK,,,,,2.0,18.0,"[10, 12, 14, 16]",,1.0,68.0,4.0,,0,25
+251,2017,GL v DC,GL,DC,"Green Park, Kanpur",1.0,2.0,Aaron Finch,4.0,,GL,2.0,2.0,0.0,0.0,,,,1.0,0.0,14.0,,0.0,0,42
+10998,2023,RCB v LSG,RCB,LSG,"M.Chinnaswamy Stadium, Bengaluru",2.0,1.0,Marcus Stoinis,4.0,,LSG,10.0,13.0,0.0,2.0,,,,1.0,0.0,24.0,,0.0,0,98
+4976,2016,KKR v GL,KKR,GL,"Eden Gardens, Kolkata",2.0,1.0,Dinesh Karthik,4.0,,GL,0.0,3.0,0.0,0.0,,,,2.0,0.0,18.0,,0.0,1,68
+14302,2013,RCB v KKR,RCB,KKR,"M.Chinnaswamy Stadium, Bengaluru",2.0,1.0,RP Singh,4.0,RCB,,1.0,1.0,0.0,0.0,0.0,34.0,"[5, 7, 13, 18]",,0.0,5.0,4.0,,0,28
+4114,2013,MI v PBKS,MI,PBKS,"Wankhede Stadium, Mumbai",2.0,1.0,David Miller,4.0,,PBKS,10.0,8.0,1.0,0.0,,,,,0.0,16.0,,,0,44
+15552,2023,PBKS v DC,DC,PBKS,"Himachal Pradesh Cricket Association Stadium, Dharamsala",1.0,2.0,Rilee Rossouw,4.0,,DC,5.0,5.0,0.0,1.0,,,,1.0,0.0,18.0,,0.0,0,84
+8348,2021,PBKS v RCB,PBKS,RCB,"Narendra Modi Stadium, Motera, Ahmedabad",1.0,2.0,KL Rahul,4.0,,PBKS,19.0,20.0,1.0,2.0,,,,0.0,0.0,33.0,,1.0,0,14
+21015,2015,MI v RCB,MI,RCB,"Wankhede Stadium, Mumbai",1.0,2.0,Virat Kohli,4.0,,RCB,32.0,30.0,1.0,3.0,,,,1.0,1.0,53.0,,0.0,0,64
+3405,2010,KKR v PBKS,KKR,PBKS,"Eden Gardens, Kolkata",1.0,2.0,Chris Gayle,4.0,KKR,KKR,4.0,7.0,0.0,1.0,1.0,9.0,[20],,1.0,34.0,1.0,,0,17
+7308,2012,KKR v MI,KKR,MI,"Eden Gardens, Kolkata",2.0,1.0,Jacques Kallis,4.0,KKR,KKR,30.0,27.0,0.0,3.0,2.0,20.0,"[4, 6, 8, 10]",,1.0,103.0,4.0,,0,15
+2796,2013,PWI v SRH,PWI,SRH,"Maharashtra Cricket Association Stadium, Pune",2.0,1.0,Bhuvneshwar Kumar,4.0,PWI,PWI,,,,,2.0,12.0,"[1, 3, 5, 19]",,1.0,80.0,4.0,,0,88
+20759,2023,RCB v DC,RCB,DC,"M.Chinnaswamy Stadium, Bengaluru",1.0,2.0,Vijaykumar Vyshak,4.0,RCB,,,,,,,,,,,,,,0,70
+19697,2021,SRH v MI,SRH,MI,"Sheikh Zayed Stadium, Abu Dhabi",1.0,2.0,Suryakumar Yadav,4.0,,MI,3.0,3.0,0.0,0.0,,,,,0.0,7.0,,,0,37
+5667,2020,DC v CSK,DC,CSK,Sharjah Cricket Stadium,1.0,2.0,Faf du Plessis,4.0,,CSK,48.0,34.0,2.0,4.0,,,,,1.0,66.0,,,0,85
+14832,2016,DC v RPS,DC,RPS,"Arun Jaitley Stadium, Delhi",2.0,1.0,Rajat Bhatia,4.0,RPS,,3.0,2.0,0.0,0.0,0.0,20.0,"[7, 9, 14]",,0.0,9.0,3.0,,0,5
+11880,2021,RCB v RR,RCB,RR,"Wankhede Stadium, Mumbai",2.0,1.0,Mohammed Siraj,4.0,RCB,,,,,,0.0,17.0,"[1, 5, 19]",1.0,0.0,16.0,3.0,0.0,0,56
+11347,2013,CSK v MI,CSK,MI,"Arun Jaitley Stadium, Delhi",1.0,2.0,Michael Hussey,4.0,,CSK,6.0,5.0,0.0,1.0,,,,1.0,0.0,19.0,,0.0,0,83
+2175,2012,DC v PBKS,SRH,PBKS,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2.0,1.0,Ashish Reddy,4.0,SRH,SRH,,,,,1.0,36.0,"[7, 9, 13, 17]",,1.0,37.0,4.0,,0,71
+20225,2023,CSK v PBKS,CSK,PBKS,"MA Chidambaram Stadium, Chepauk, Chennai",1.0,2.0,Tushar Deshpande,4.0,CSK,,,,,,2.0,42.0,"[2, 5, 14, 19]",,1.0,52.0,4.0,,0,40
+7272,2010,CSK v RCB,CSK,RCB,"MA Chidambaram Stadium, Chepauk, Chennai",1.0,2.0,Jacques Kallis,4.0,RCB,RCB,27.0,29.0,0.0,3.0,0.0,36.0,"[5, 11, 13, 15]",,0.0,34.0,4.0,,0,64
+7583,2023,KKR v CSK,KKR,CSK,"Eden Gardens, Kolkata",2.0,1.0,Jason Roy,4.0,,KKR,43.0,39.0,1.0,5.0,,,,,1.0,58.0,,,0,76
+16264,2023,DC v MI,DC,MI,"Arun Jaitley Stadium, Delhi",2.0,1.0,Rohit Sharma,4.0,,MI,21.0,13.0,1.0,3.0,,,,,1.0,34.0,,,0,21
+17690,2018,CSK v KKR,CSK,KKR,"MA Chidambaram Stadium, Chepauk, Chennai",2.0,1.0,Shane Watson,4.0,CSK,CSK,16.0,14.0,1.0,1.0,2.0,29.0,"[2, 4, 6, 13]",,1.0,73.0,4.0,,0,50
+14238,2008,MI v DC,MI,SRH,"Dr DY Patil Sports Academy, Mumbai",2.0,1.0,RP Singh,4.0,SRH,,,,,,1.0,44.0,"[2, 4, 8, 19]",0.0,1.0,33.0,4.0,1.0,0,88
+1968,2015,PBKS v RR,PBKS,RR,"Maharashtra Cricket Association Stadium, Pune",2.0,1.0,Anureet Singh,4.0,PBKS,PBKS,,,,,0.0,12.0,[2],,0.0,4.0,1.0,,0,22
+20119,2015,RCB v SRH,RCB,SRH,"M.Chinnaswamy Stadium, Bengaluru",2.0,1.0,Trent Boult,4.0,SRH,,,,,,1.0,34.0,"[2, 4, 15, 20]",0.0,1.0,53.0,4.0,2.0,0,64
+13263,2017,GL v MI,GL,MI,"Saurashtra Cricket Association Stadium, Rajkot",2.0,1.0,Parthiv Patel,4.0,,MI,33.0,27.0,0.0,4.0,,,,,1.0,45.0,,,0,90
+138,2019,RCB v MI,RCB,MI,"M.Chinnaswamy Stadium, Bengaluru",2.0,1.0,AB de Villiers,4.0,,RCB,9.0,10.0,0.0,0.0,,,,,0.0,13.0,,,0,46
+2480,2022,PBKS v DC,PBKS,DC,"Dr DY Patil Sports Academy, Navi Mumbai",1.0,2.0,Axar Patel,4.0,DC,DC,,,,,0.0,25.0,"[6, 13]",,0.0,-2.0,2.0,,0,3
+14914,2018,SRH v PBKS,SRH,PBKS,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1.0,2.0,Rashid Khan,4.0,SRH,,6.0,9.0,0.0,0.0,2.0,11.0,"[10, 12, 14, 17]",1.0,1.0,94.0,4.0,0.0,0,88
+11809,2022,GT v LSG,GT,LSG,"Wankhede Stadium, Mumbai",2.0,1.0,Mohammed Shami,4.0,GT,,,,,,3.0,21.0,"[1, 3, 17, 19]",,1.0,95.0,4.0,,0,78
+15583,2022,KKR v RR,KKR,RR,"Wankhede Stadium, Mumbai",2.0,1.0,Rinku Singh,4.0,,KKR,23.0,16.0,0.0,3.0,,,,,1.0,32.0,,,0,39
+14560,2020,SRH v RR,SRH,RR,Dubai International Cricket Stadium,2.0,1.0,Rahul Tewatia,4.0,RR,RR,14.0,10.0,1.0,0.0,1.0,6.0,[10],,1.0,47.0,1.0,,0,79
+4947,2014,DC v PBKS,DC,PBKS,"Arun Jaitley Stadium, Delhi",1.0,2.0,Dinesh Karthik,4.0,,DC,3.0,8.0,0.0,0.0,,,,0.0,0.0,19.0,,1.0,0,95
+16039,2008,SRH v DC,SRH,DC,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1.0,2.0,Rohit Sharma,4.0,,SRH,0.0,3.0,0.0,0.0,,,,1.0,0.0,10.0,,0.0,1,11
